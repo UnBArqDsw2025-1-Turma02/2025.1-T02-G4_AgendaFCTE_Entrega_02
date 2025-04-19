@@ -40,6 +40,12 @@ Este repositório é destinado ao desenvolvimento da segunda entrega do projeto 
             </a>
         </td>
         <td align="center">
+            <a href="https://github.com/rayenealmeida">
+                <img style="border-radius: 50%;" src="https://github.com/rayenealmeida.png" width="150px;"/>
+                <h5 class="text-center">Rayene<br>Almeida</h5>
+            </a>
+        </td>
+        <td align="center">
             <a href="https://github.com/thaleseuflauzino">
                 <img style="border-radius: 50%;" src="https://github.com/thaleseuflauzino.png" width="150px;"/>
                 <h5 class="text-center">Thales<br>Euflauzino</h5>
