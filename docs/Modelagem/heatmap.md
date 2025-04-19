@@ -7,7 +7,7 @@ Na **Figura 1**, as células com o valor "0" indicam a ausência de disponibilid
 
 ##### <center> **Figura 1:** Heatmap de Disponibilidade do G4
 
-![heatmap](/assets/heatmap.jpg)
+![heatmap](../assets/heatmap.jpg)
 
 <div>
   <p align="center"><b>Autor:</b> <a href="https://www.github.com/thaleseuflauzino">Thales Euflauzino, 2025</a></p>
