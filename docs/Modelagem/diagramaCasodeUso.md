@@ -82,11 +82,11 @@ O fluxo foi concebido individualmente por [Víctor Schmidt](https://github.com/m
 
 Este registro descreve a modelagem dos fluxos referentes aos requisitos:
 
-- RF10 – Filtrar eventos: permite ao usuário aplicar filtros por tipo, data ou local para refinar os eventos exibidos.
-- RF12 e RF24 – Receber notificações de eventos: o sistema envia alertas relevantes ao usuário sobre eventos favoritos, próximos ou recomendados.
-- RF14 – Favoritar evento: permite ao usuário marcar eventos como favoritos para acesso rápido ou personalização de conteúdo.
-- RF25 – Indicar interesse ou presença: o usuário pode sinalizar se tem interesse ou confirmará presença em determinado evento.
-- RF28 – Avaliar e comentar evento: após o evento, o usuário pode deixar comentários e avaliações públicas.
+- [RF10](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf10) – Filtrar eventos: permite ao usuário aplicar filtros por tipo, data ou local para refinar os eventos exibidos.
+- [RF12](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf12) e [RF24](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf24) – Receber notificações de eventos: o sistema envia alertas relevantes ao usuário sobre eventos favoritos, próximos ou recomendados.
+- [RF14](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf14) – Favoritar evento: permite ao usuário marcar eventos como favoritos para acesso rápido ou personalização de conteúdo.
+- [RF25](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf25) – Indicar interesse ou presença: o usuário pode sinalizar se tem interesse ou confirmará presença em determinado evento.
+- [RF28](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf28) – Avaliar e comentar evento: após o evento, o usuário pode deixar comentários e avaliações públicas.
 
 O fluxo representa ações de interação do usuário com a plataforma para personalização, engajamento e feedback sobre os eventos.
 
@@ -102,8 +102,8 @@ O fluxo representa ações de interação do usuário com a plataforma para pers
 
 Este registro corresponde aos fluxos relacionados aos seguintes requisitos:
 
-- RF08 - Definir limite de vagas: organizadores podem especificar o número máximo de participantes para um evento.
-- RF18 - Visualizar lista de inscritos: os organizadores têm acesso à lista de usuários que se inscreveram no evento.
+- [RF08](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf8) - Definir limite de vagas: organizadores podem especificar o número máximo de participantes para um evento.
+- [RF18](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf18) - Visualizar lista de inscritos: os organizadores têm acesso à lista de usuários que se inscreveram no evento.
 
 <center>
 
