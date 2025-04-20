@@ -80,6 +80,15 @@ O fluxo foi concebido individualmente por [Víctor Schmidt](https://github.com/m
 
 ### Registro 3
 
+Este registro descreve a modelagem dos fluxos referentes aos requisitos:
+
+- RF10 – Filtrar eventos: permite ao usuário aplicar filtros por tipo, data ou local para refinar os eventos exibidos.
+- RF12 e RF24 – Receber notificações de eventos: o sistema envia alertas relevantes ao usuário sobre eventos favoritos, próximos ou recomendados.
+- RF14 – Favoritar evento: permite ao usuário marcar eventos como favoritos para acesso rápido ou personalização de conteúdo.
+- RF25 – Indicar interesse ou presença: o usuário pode sinalizar se tem interesse ou confirmará presença em determinado evento.
+- RF28 – Avaliar e comentar evento: após o evento, o usuário pode deixar comentários e avaliações públicas.
+
+O fluxo representa ações de interação do usuário com a plataforma para personalização, engajamento e feedback sobre os eventos.
 
 <center>
 
@@ -91,6 +100,10 @@ O fluxo foi concebido individualmente por [Víctor Schmidt](https://github.com/m
 
 ### Registro 4
 
+Este registro corresponde aos fluxos relacionados aos seguintes requisitos:
+
+- RF08 - Definir limite de vagas: organizadores podem especificar o número máximo de participantes para um evento.
+- RF18 - Visualizar lista de inscritos: os organizadores têm acesso à lista de usuários que se inscreveram no evento.
 
 <center>
 
@@ -115,3 +128,4 @@ O fluxo foi concebido individualmente por [Víctor Schmidt](https://github.com/m
 | `1.0`    | 17/04/2025 | Elaboração do esqueleto para entrega 2    |[Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)  | Aprovação do PR, ótimo trabalho |
 | `1.1`    | 19/04/2025 | Adicionando quadro de casos de uso no Draw.io para elaborar os casos de uso, adicionando introdução, metodologia e referências bibliográficas. Adicionando também tabela de Elementos do diagrama de casos de uso | [Víctor Schmidt](https://github.com/moonshinerd) |  |  |
 | `1.2`    | 19/04/2025 | Adicionando fluxos dos requisitos RF01, RF02, RF03, RF04, RF05, RF09, RF18 e RF22 e registrando autoria | [Víctor Schmidt](https://github.com/moonshinerd) |  |  |
+| `1.3`    | 20/04/2025 | Adicionando fluxos dos requisitos RF10, RF12, RF24, RF14, RF25, RF28 , RF08 e RF18 e registrando autoria | [Thales Euflauzino](https://github.com/thaleseuflauzino) |  |  |
