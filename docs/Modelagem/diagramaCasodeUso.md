@@ -42,35 +42,63 @@ No diagrama de casos de uso, você também pode explicitar:
   <iframe frameborder="0" style="width:100%;height:514px;" src="https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&layers=1&nav=1&title=use-cases.drawio&dark=0#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1OvxKGUKmt6cI1kB4XkXkrmrW_aqWq1Q3%26export%3Ddownload"></iframe>
 </div>
 
-### Fluxo 1
 
-Este fluxo contempla os requisitos [RF01](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf1), [RF02](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf2), [RF03](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf3), [RF04](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf4), [RF09](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf9), [RF18](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf18) e [RF22](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf22), que abrangem funcionalidades como visualização, busca, compartilhamento, inscrição e acesso a sites de eventos de terceiros, além do resgate de ingressos dentro do aplicativo (exclusivo para estudantes ou não) e a adição de eventos inscritos à agenda do usuário.
+### Registro 1
 
-O fluxo foi desenvolvido individualmente pelo membro [Víctor Schmidt](https://github.com/moonshinerd). Os demais integrantes da equipe também contribuíram com fluxos distintos, desenvolvidos de forma individual ou colaborativa.
+Este registro documenta a implementação dos requisitos **[RF01](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf1)**, **[RF02](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf2)**, **[RF03](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf3)**, **[RF04](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf4)**, **[RF09](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf9)**, **[RF18](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf18)** e **[RF22](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf22)**, que envolvem:
+
+- Visualização, pesquisa e compartilhamento de eventos;  
+- Inscrição em eventos e acesso a sites de terceiros;  
+- Resgate de ingressos (incluindo fluxo exclusivo para estudantes);  
+- Inclusão de eventos inscritos na agenda do usuário.  
+
+O diagrama abaixo ilustra o passo a passo dessas funcionalidades, conforme modelado por [Víctor Schmidt](https://github.com/moonshinerd). Os demais membros registraram seus próprios processos de forma individual ou colaborativa.
 
 <center>
 
-<a id="fig1">**Figura 1 - Fluxo 1**</a>
+<a id="fig1">**Figura 1 – Registro 1**</a>
 
-![Figura1](../assets/casos-de-uso/schmidt/fluxo1.png)  
+![Figura1](../assets/casos-de-uso/registros/reg1.png)  
 <font size="2"><p style="text-align: center"><b>*Autor: <a href="https://github.com/moonshinerd">Víctor Schmidt</a>*</b></p></font>
 </center>
 
 
-### Fluxo 2
+### Registro 2
 
-Este fluxo aborda o requisito [RF05](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf5), que trata do cadastro, edição e exclusão de eventos por parte do organizador.
+Este registro descreve o cumprimento do requisito **[RF05](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf5)**, relativo ao cadastro, edição e exclusão de eventos pelos organizadores.
 
-Assim como no fluxo anterior, este também foi desenvolvido individualmente pelo membro [Víctor Schmidt](https://github.com/moonshinerd), enquanto os demais membros da equipe elaboraram seus próprios fluxos, de forma individual ou em conjunto.
+O fluxo foi concebido individualmente por [Víctor Schmidt](https://github.com/moonshinerd), enquanto os demais integrantes documentaram seus registros de trabalho de maneira autônoma ou em equipe.
 
 <center>
 
-<a id="fig2">**Figura 2 - Fluxo 2**</a>
+<a id="fig2">**Figura 2 – Registro 2**</a>
 
-![Figura2](../assets/casos-de-uso/schmidt/fluxo2.png)  
+![Figura2](../assets/casos-de-uso/registros/reg2.png)  
 <font size="2"><p style="text-align: center"><b>*Autor: <a href="https://github.com/moonshinerd">Víctor Schmidt</a>*</b></p></font>
 </center>
 
+
+### Registro 3
+
+
+<center>
+
+<a id="fig3">**Figura 3 - Registro 3**</a>
+
+![Figura3](../assets/casos-de-uso/registros/reg3.png)  
+<font size="2"><p style="text-align: center"><b>*Autor: <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a>*</b></p></font>
+</center>
+
+### Registro 4
+
+
+<center>
+
+<a id="fig4">**Figura 4 - Registro 4**</a>
+
+![Figura4](../assets/casos-de-uso/registros/reg4.png)  
+<font size="2"><p style="text-align: center"><b>*Autor: <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a>*</b></p></font>
+</center>
 
 ## Referências Bibliográficas
 
