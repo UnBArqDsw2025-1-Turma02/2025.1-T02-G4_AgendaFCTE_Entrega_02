@@ -21,13 +21,14 @@ Na Tabela 1, são apresentados os participantes da reunião juntamente com os in
   <tr><td>Manoela Silvestre Garcia</td><td>22/2015186</td><td>✅/❌</td></tr>
   <tr><td>Maykon Júnio dos Santos Soares</td><td>21/1030863</td><td>✅/❌</td></tr>
   <tr><td>Pedro Lopes da Cunha</td><td>21/1039671</td><td>✅/❌</td></tr>
+  <tr><td>Rayene Almeida</td><td>22/1022720</td><td>✅/❌</td></tr>
   <tr><td>Thales Euflauzino</td><td>22/2006178</td><td>✅/❌</td></tr>
   <tr><td>Victor Hugo dos Santos Bernardes</td><td>22/2029243</td><td>✅/❌</td></tr>
   <tr><td>Víctor Schmidt</td><td>22/2021924</td><td>✅/❌</td></tr>
   <tr><td>Victório Lázaro Rocha de Morais</td><td>21/1031860</td><td>✅/❌</td></tr>
 </table>
 
-<font size="2">Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino)</font>
+<font size="2">Autor: [Manoela Garcia](https://github.com/manu-sgc)</font>
 
 </center>
 
