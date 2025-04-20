@@ -44,8 +44,7 @@ Na Tabela 1, são apresentados os participantes da reunião juntamente com os in
 <!-- decisões feitas pela equipe -->
 
 - Os autores e revisores de cada artefato seguirá o [Cronograma Planejado](./Modelagem/2.5.1.Cronograma/2.5.1.1.CronogramaPlanejado?id=cronograma-planejado).
-- As entregas dos artefatos de cada foco serão entergues gradualmente, um após o outro, dentro de cada foco
-- Todos os integrantes aceitaram as atividades atribuídas.
+- As entregas dos artefatos de cada foco serão entregues gradualmente, um após o outro, dentro de cada foco
 - Foi definido que todas as reuniões entre dois ou mais integrantes para a realização de artefatos serão gravadas para facilitar o acompanhamento das atividades.
 
 ## Compromissos
