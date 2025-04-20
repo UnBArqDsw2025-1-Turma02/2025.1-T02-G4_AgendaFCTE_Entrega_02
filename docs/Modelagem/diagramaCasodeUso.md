@@ -42,6 +42,36 @@ No diagrama de casos de uso, você também pode explicitar:
   <iframe frameborder="0" style="width:100%;height:514px;" src="https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&layers=1&nav=1&title=use-cases.drawio&dark=0#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1OvxKGUKmt6cI1kB4XkXkrmrW_aqWq1Q3%26export%3Ddownload"></iframe>
 </div>
 
+### Fluxo 1
+
+Este fluxo contempla os requisitos [RF01](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf1), [RF02](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf2), [RF03](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf3), [RF04](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf4), [RF09](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf9), [RF18](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf18) e [RF22](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf22), que abrangem funcionalidades como visualização, busca, compartilhamento, inscrição e acesso a sites de eventos de terceiros, além do resgate de ingressos dentro do aplicativo (exclusivo para estudantes ou não) e a adição de eventos inscritos à agenda do usuário.
+
+O fluxo foi desenvolvido individualmente pelo membro [Víctor Schmidt](https://github.com/moonshinerd). Os demais integrantes da equipe também contribuíram com fluxos distintos, desenvolvidos de forma individual ou colaborativa.
+
+<center>
+
+<a id="fig1">**Figura 1 - Fluxo 1**</a>
+
+![Figura1](../assets/casos-de-uso/schmidt/fluxo1.png)  
+<font size="2"><p style="text-align: center"><b>*Autor: <a href="https://github.com/moonshinerd">Víctor Schmidt</a>*</b></p></font>
+</center>
+
+
+### Fluxo 2
+
+Este fluxo aborda o requisito [RF05](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf5), que trata do cadastro, edição e exclusão de eventos por parte do organizador.
+
+Assim como no fluxo anterior, este também foi desenvolvido individualmente pelo membro [Víctor Schmidt](https://github.com/moonshinerd), enquanto os demais membros da equipe elaboraram seus próprios fluxos, de forma individual ou em conjunto.
+
+<center>
+
+<a id="fig2">**Figura 2 - Fluxo 2**</a>
+
+![Figura2](../assets/casos-de-uso/schmidt/fluxo2.png)  
+<font size="2"><p style="text-align: center"><b>*Autor: <a href="https://github.com/moonshinerd">Víctor Schmidt</a>*</b></p></font>
+</center>
+
+
 ## Referências Bibliográficas
 
 > [<a id='ref1'>1</a>] JACOBSON, Ivar; CHRISTERSON, Magnus; JONSSON, Patrik; ÖVERGAARD, Gunnar. **Object‑oriented software engineering: a use case driven approach**. New York; Wokingham, Eng.; Reading, Mass.: ACM Press; Addison‑Wesley, 1992. Disponível em: <https://archive.org/details/ivar-jacobson-object-oriented-software-engineering-a-use-case-driven-approach-ac>. Acesso em: 19 abr. 2025.
@@ -56,3 +86,4 @@ No diagrama de casos de uso, você também pode explicitar:
 | -- | -- | -- | -- | -- | -- |
 | `1.0`    | 17/04/2025 | Elaboração do esqueleto para entrega 2    |[Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)  | Aprovação do PR, ótimo trabalho |
 | `1.1`    | 19/04/2025 | Adicionando quadro de casos de uso no Draw.io para elaborar os casos de uso, adicionando introdução, metodologia e referências bibliográficas. Adicionando também tabela de Elementos do diagrama de casos de uso | [Víctor Schmidt](https://github.com/moonshinerd) |  |  |
+| `1.2`    | 19/04/2025 | Adicionando fluxos dos requisitos RF01, RF02, RF03, RF04, RF05, RF09, RF18 e RF22 e registrando autoria | [Víctor Schmidt](https://github.com/moonshinerd) |  |  |
