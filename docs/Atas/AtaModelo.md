@@ -65,6 +65,6 @@ para o chat GPT formar a tabela em HTML -->
 
 ## Histórico de versões
 
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
-| ------ | ---- | --------- | --------- | ----------- |
-|`1.0`|19/04/2025| Adicionando modelo | [Manoela Garcia](https://github.com/manu-sgc) |  |
+| Versão | Data | Descrição | Autor(es) | Revisor(es) | Comentário do Revisor |
+| ------ | ---- | --------- | --------- | ----------- | -- |
+|`1.0`|19/04/2025| Adicionando modelo | [Manoela Garcia](https://github.com/manu-sgc) | [Víctor Schmidt](https://github.com/moonshinerd) | Tudo certo no modelo da ata, PR aprovado! |
