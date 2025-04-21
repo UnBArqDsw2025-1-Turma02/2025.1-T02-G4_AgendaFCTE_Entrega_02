@@ -65,7 +65,7 @@ Ele registra o que foi feito na versão `1.2` e `1.3` pelo membro [Thales Euflau
 
 ## Referências Bibliográficas
 
-> [<a id='ref1'>1</a>] BELL, Donald. *UML basics: The component diagram*. IBM Developer, 15 dez. 2004. Disponível em: <https://developer.ibm.com/articles/the-component-diagram/>. Acesso em: 20 abr. 2025.
+> [<a id='ref1'>1</a>] BELL, Donald. *UML basics: The component diagram*. IBM Developer, 15 dez. 2004. Disponível em: [https://developer.ibm.com/articles/the-component-diagram]. Acesso em: 20 abr. 2025.
 > 
 > [<a id='ref2'>2</a>] SOMMERVILLE, Ian. *Software Engineering*. 9. ed. Harlow: Addison‑Wesley, 2011. ISBN 978‑0‑13‑705346‑9. Disponível em: <https://engineering.futureuniversity.com/BOOKS%20FOR%20IT/Software-Engineering-9th-Edition-by-Ian-Sommerville.pdf>. Acesso em: 20 abr. 2025.
 >
