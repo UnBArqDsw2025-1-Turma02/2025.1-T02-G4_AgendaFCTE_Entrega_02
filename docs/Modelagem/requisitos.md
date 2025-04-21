@@ -72,4 +72,4 @@ _Legenda das Tabelas:_
 
 | Versão | Data       | Descrição               | Autor                                             | Revisor                                                | Comentário do Revisor |
 | ------ | ---------- | ----------------------- | ------------------------------------------------- | ------------------------------------------------------ | --------------------- |
-| `1.0`    | 21/04/2025 | Junção das tabelas de requisitos da entrega 1    |[Thales Euflauzino](https://github.com/thaleseuflauzino) |   |   |
+| `1.0`    | 21/04/2025 | Junção das tabelas de requisitos da entrega 1    |[Thales Euflauzino](https://github.com/thaleseuflauzino) |  [Víctor Schmidt](https://github.com/moonshinerd) | PR Aprovado!|
