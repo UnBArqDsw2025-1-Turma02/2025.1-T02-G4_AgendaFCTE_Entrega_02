@@ -95,4 +95,4 @@ As funcionalidades principais do sistema estão descritas nos documentos de elic
 | Versão | Data       | Descrição               | Autor                                             | Revisor                                                | Comentário do Revisor |
 | ------ | ---------- | ----------------------- | ------------------------------------------------- | ------------------------------------------------------ | --------------------- |
 | `1.0`    | 17/04/2025 | Elaboração do esqueleto para entrega 2    |[Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)  | Aprovação do PR, ótimo trabalho |
-| `1.1`    | 21/04/2025 | Elaboração de todo o documento no modelo FURPS+    |[Thales Euflauzino](https://github.com/thaleseuflauzino) |   |  |
+| `1.1`    | 21/04/2025 | Elaboração de todo o documento no modelo FURPS+    |[Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) | Artefato muito bem feito e ótimas referências, PR aprovado. |
