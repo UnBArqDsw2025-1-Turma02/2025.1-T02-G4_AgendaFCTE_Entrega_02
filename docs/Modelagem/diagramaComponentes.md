@@ -38,6 +38,31 @@ Ele registra o que foi feito na versão `1.1` pelo membro [Víctor Schmidt](http
 <font size="2"><p style="text-align: center"><b>*Autor: <a href="https://github.com/moonshinerd">Víctor Schmidt</a>*</b></p></font>
 </center>
 
+
+# Registro 2
+
+Este registro descreve a modelagem dos fluxos referentes aos requisitos:
+
+- [RF03](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf3) – Integração com agendas e mapas (Google Agenda, Outlook etc.), permitindo adicionar eventos e visualizar localização.
+- [RF06](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf6) – Permitir que usuários sugiram novos eventos, com possibilidade de moderação.
+- [RF07](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf7) – Eventos podem ser marcados com até 6 meses de antecedência.
+- [RF11](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf11) – Cadastro de tags de interesse para personalizar recomendações.
+- [RF13](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf13) – Histórico de eventos para acompanhar eventos passados e interações.
+- [RF17](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf17) – Emissão de certificados de participação (quando definido pelo organizador).
+- [RF23](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf23) – Seguir organizadores e páginas de eventos.
+- [RF25](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf25) – Indicar interesse ou confirmar presença em um evento.
+- [RF26](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf26) – Curtir eventos.
+
+Ele registra o que foi feito na versão `1.2` e `1.3` pelo membro [Thales Euflauzino](https://github.com/thaleseuflauzino) quanto ao diagrama de componentes.
+
+<center>
+
+<a id="fig1">**Figura 2 - Registro 2**</a>
+
+![Figura4](../assets/diagrama-componentes/registro2.jpg)  
+<font size="2"><p style="text-align: center"><b>*Autor: <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a>*</b></p></font>
+</center>
+
 ## Referências Bibliográficas
 
 > [<a id='ref1'>1</a>] BELL, Donald. *UML basics: The component diagram*. IBM Developer, 15 dez. 2004. Disponível em: <https://developer.ibm.com/articles/the-component-diagram/>. Acesso em: 20 abr. 2025.
@@ -52,3 +77,4 @@ Ele registra o que foi feito na versão `1.1` pelo membro [Víctor Schmidt](http
 | -- | -- | -- | -- | -- | -- |
 | `1.0`    | 17/04/2025 | Elaboração do esqueleto para entrega 2 |[Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)  | Aprovação do PR, ótimo trabalho |
 | `1.1`    | 21/04/2025 | Adição da introdução técnica sólida com fontes bibliográficas confiáveis. <br> Inserção e embedding do diagrama (com link e iframe).<br> Listagem e vinculo dos requisitos funcionais (RFs) modelados no diagrama na minha autoria. <br> Registrou sua contribuição com clareza na seção de versão.<br> Inserção da imagem do registro com legenda e autoria junto com texto justificativo. | [Víctor Schmidt](https://github.com/moonshinerd) |  |  |
+| `1.2`    | 21/04/2025 | Adição dos requisitos escolhidos para a elaboração do diagrama de componentes. | [Thales Euflauzino](https://github.com/thaleseuflauzino) |  |  |
