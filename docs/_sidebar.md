@@ -25,6 +25,7 @@
       - [2.5.4. NFR Framework](./Modelagem/NFR.md)
       - [2.5.5. Especificações de Casos de Uso](./Modelagem/EspCasodeUso.md)
       - [2.5.6. Especificação Suplementar](./Modelagem/EspSuplementar.md)
+      - [2.5.7. Requisitos Elicitados (etapa 1)](./Modelagem/requisitos.md)
 - **Atas**
   - [Ata modelo](./Atas/AtaModelo.md)
   - [Ata 1](./Atas/ata01.md)
