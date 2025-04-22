@@ -18,6 +18,15 @@ Ao estruturar graficamente o fluxo de controle e as reações a estímulos exter
 
 <font size="2"><p style="text-align: center"><b>*Autor: <a href="https://github.com/moonshinerd">Víctor Schmidt*</a></b></p></font>
 
+## Diagrama de Estados
+
+<a id="diagrama1" href="https://app.diagrams.net/#G1dj738qSWtRH6K0qWtVimGE9OIRKDBL8L#%7B%22pageId%22%3A%2258cdce13-f638-feb5-8d6f-7d28b1aa9fa0%22%7D" style="display: block; text-align: center;">
+  <b>Diagrama 1</b> – Diagrama de Estados
+</a>
+
+
+<iframe frameborder="0" style="width:100%;height:749px;" src="https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=https%3A%2F%2Fapp.diagrams.net%2F%23G1dj738qSWtRH6K0qWtVimGE9OIRKDBL8L%23%257B%2522pageId%2522%253A%252258cdce13-f638-feb5-8d6f-7d28b1aa9fa0%2522%257D&layers=1&nav=1&title=diagrama-estados.drawio&dark=0#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1dj738qSWtRH6K0qWtVimGE9OIRKDBL8L%26export%3Ddownload"></iframe>
+
 
 ## Referência Bibliográfica
 
