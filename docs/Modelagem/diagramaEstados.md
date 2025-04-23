@@ -27,6 +27,33 @@ Ao estruturar graficamente o fluxo de controle e as reações a estímulos exter
 
 <iframe frameborder="0" style="width:100%;height:749px;" src="https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=https%3A%2F%2Fapp.diagrams.net%2F%23G1dj738qSWtRH6K0qWtVimGE9OIRKDBL8L%23%257B%2522pageId%2522%253A%252258cdce13-f638-feb5-8d6f-7d28b1aa9fa0%2522%257D&layers=1&nav=1&title=diagrama-estados.drawio&dark=0#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1dj738qSWtRH6K0qWtVimGE9OIRKDBL8L%26export%3Ddownload"></iframe>
 
+### Registro 1
+Este registro descreve a modelagem dos fluxos referentes aos requisitos:
+
+- [RF01](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf1) – Integração com outros sites ou apps de eventos, permitindo sincronizar informações e compromissos.  
+- [RF02](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf2) – Integração com redes sociais e outros canais (Instagram, WhatsApp, e-mail, murais etc.) para compartilhamento e divulgação de eventos.  
+- [RF03](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf3) – Integração com agendas e mapas (Google Agenda, Outlook etc.), permitindo adicionar eventos e visualizar localização. 
+- [RF04](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf4) – Visualização de eventos com informações como data, hora, local, descrição, link de inscrição e contato.  
+- [RF05](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf5) – Cadastro, edição e exclusão de eventos pelos organizadores, com definição de detalhes como data, local, categoria e regras.  
+- [RF06](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf6) – Sugerir novos eventos, com possibilidade de moderação.
+- [RF09](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf9) – Busca de eventos por nome, local, data, tipo, categoria e tags.  
+- [RF10](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf10) – Filtrar e organizar eventos por tipo, data, localização, categoria, popularidade, hype e avaliações.  
+- [RF14](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf14) – Permitir favoritar eventos para acompanhar novidades e receber notificações.  
+- [RF15](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf15) – Oferecer sistema de comentários para interação entre usuários e organizadores, com moderação.  
+- [RF18](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf18) – Inscrição e resgate/compra de ingressos para eventos. 
+- [RF21](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf21) – Criação de perfis e autenticação dos usuários, inclusive por e-mail.  
+- [RF26](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf26) – Permitir que usuários curtam eventos.  
+
+Ele registra o que foi feito na versão `1.1` e `1.2` pelo membro [Víctor Schmidt](https://github.com/moonshinerd) quanto ao diagrama de estados.
+
+<center>
+
+<a id="fig1">**Figura 1 - Registro 1**</a>
+
+![Figura1](../assets/diagrama-estados/registro/registro1.jpg)  
+<font size="2"><p style="text-align: center"><b>*Autor: <a href="https://github.com/moonshinerd">Víctor Schmidt</a>*</b></p></font>
+</center>
+
 
 ## Referência Bibliográfica
 
@@ -44,3 +71,4 @@ Ao estruturar graficamente o fluxo de controle e as reações a estímulos exter
 | -- | -- | -- | -- | -- | -- |
 | `1.0`    | 17/04/2025 | Elaboração do esqueleto para entrega 2    |[Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)  | Aprovação do PR, ótimo trabalho |
 | `1.1`    | 21/04/2025 | Adicionando introdução, referências bibliográficas e tabela 1 com os elementos do diagrama de estados    | [Víctor Schmidt](https://github.com/moonshinerd) |   |  |
+| `1.2`    | 22/04/2025 | Adicionando registro 1 e os requisitos trabalhados nesse registro dentro do diagrama de estados | [Víctor Schmidt](https://github.com/moonshinerd) |   |  |
