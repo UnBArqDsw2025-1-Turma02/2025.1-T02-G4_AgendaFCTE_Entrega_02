@@ -42,7 +42,7 @@ A elaboração deste documento adotou uma abordagem individual, na qual o integr
 | **Victório Lázaro Rocha de Morais**  | Participação nas etapas da Modelagem UML Dinâmica | -                                            |                                  |
 
 
-## 5. Módulo Modelagem UML de Casos de Uso (Foco_3)
+## 5. Módulo Modelagem UML Organizacional ou Casos de Uso (Foco_3)
 
 | Nome do Membro                        | Contribuição                                      | Significância da Contribuição para o Projeto | Comprobatórios Claros (com link) |
 |--------------------------------------|--------------------------------------------------|----------------------------------------------|----------------------------------|
@@ -79,4 +79,4 @@ A elaboração deste documento adotou uma abordagem individual, na qual o integr
 | Versão | Data       | Descrição               | Autor                                             | Revisor                                                | Comentário do Revisor |
 | ------ | ---------- | ----------------------- | ------------------------------------------------- | ------------------------------------------------------ | --------------------- |
 | `1.0`    | 17/04/2025 | Elaboração do esqueleto para entrega 2    | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)  | Aprovação do PR, ótimo trabalho |
-| `1.1`    | 21/04/2025 | Elaboração das tabelas de participações por foco    | [Thales Euflauzino](https://github.com/thaleseuflauzino) | | |
+| `1.1`    | 21/04/2025 | Elaboração das tabelas de participações por foco    | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) | Correção do título do foco 3 e aprovação do PR |
