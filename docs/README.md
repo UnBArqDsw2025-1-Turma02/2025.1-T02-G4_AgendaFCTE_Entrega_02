@@ -27,6 +27,6 @@ O AgendaFCTE é um web‑app que centraliza todos os eventos da FCTE em um só l
 | Versão | Data | Descrição | Autor | Revisor | Comentário do Revisor |
 | -- | -- | -- | -- | -- | -- |
 | `1.0` | 16/04/2025 | Criação do documento |[Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) | Bom trabalho! |
-| `1.1` | 22/04/2025 | Restyle da sidebar |[Thales Euflauzino](https://github.com/thaleseuflauzino) |   |  |
-| `1.2` | 22/04/2025 | Criação da coverpage |[Thales Euflauzino](https://github.com/thaleseuflauzino) |   |  |
-| `1.3` | 22/04/2025 | Adição do método de pesquisa |[Thales Euflauzino](https://github.com/thaleseuflauzino) |   |  |
+| `1.1` | 22/04/2025 | Restyle da sidebar |[Thales Euflauzino](https://github.com/thaleseuflauzino) | [Manoela Garcia](https://github.com/manu-sgc) | Muito bom! |
+| `1.2` | 22/04/2025 | Criação da coverpage |[Thales Euflauzino](https://github.com/thaleseuflauzino) | [Manoela Garcia](https://github.com/manu-sgc)  | Ficou ótimo |
+| `1.3` | 22/04/2025 | Adição do método de pesquisa |[Thales Euflauzino](https://github.com/thaleseuflauzino) | [Manoela Garcia](https://github.com/manu-sgc)  | Bom trabalho! Aprovação do PR |
