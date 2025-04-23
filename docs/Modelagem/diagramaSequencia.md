@@ -22,6 +22,11 @@ Outrossim, destaca-se que todo esse fluxo já considera a existência de uma cla
 
 <br>
 
+
+Na segunda imagem, representamos o fluxo de favoritar eventos, visualizar favoritos e receber recomendações, ações que exigem que o usuário esteja logado. O diagrama é dividido entre Navegador e Controladora, refletindo a interação do usuário com a interface e a lógica do sistema.
+
+Esse fluxo inicia com o usuário favoritando um evento, podendo depois acessar sua lista de favoritos e obter sugestões com base nesses interesses. Importante destacar que o diagrama foca apenas nessas funcionalidades privadas. Ações públicas como visualizar, filtrar ou acessar detalhes de eventos não exigem login e, por isso, não estão representadas aqui.
+
 <center>
 <p><b>Figura 2 - Diagrama de Sequência - Favoritar, Visualizar Favoritos e Recomendar Eventos</b></p>
 
@@ -50,3 +55,4 @@ Outrossim, destaca-se que todo esse fluxo já considera a existência de uma cla
 | `1.1`    | 21/04/2025 | Adição do diagrama de esquema para busca e inscrição de eventos   |[Victório Lázaro](https://github.com/Victor-oss) |  | |
 | `1.2`    | 22/04/2025 | Adição do diagrama de esquema para favoritos e recomendações de eventos   |[Rayene Almeida](https://github.com/rayenealmeida) |  | |
 | `1.3`    | 23/04/2025 | Correção do diagrama de esquema para busca e inscrição de eventos   |[Victório Lázaro](https://github.com/Victor-oss) |  | |
+| `1.4`    | 23/04/2025 | Adição da especificação das funcionalidades no diagrama que precisam de login  |[Rayene Almeida](https://github.com/rayenealmeida) |  | |
