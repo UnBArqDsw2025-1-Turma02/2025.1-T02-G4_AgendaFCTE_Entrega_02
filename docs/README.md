@@ -5,6 +5,7 @@
 **Entrega**: 01<br>
 
 ## Alunos
+
 |Matrícula | Aluno | Foto|
 | -- | -- | -- |
 | 20/2015868     | Alexandre Lema Xavier                  | <center><img src="https://github.com/AlexandreLJr.png" width="70"/> |
@@ -18,26 +19,14 @@
 | 22/2021924     | Víctor Hugo Lima Schmidt               | <center><img src="https://github.com/moonshinerd.png" width="70"/> |
 | 21/1031860     | Victório Lázaro Rocha de Morais        | <center><img src="https://github.com/Victor-oss.png" width="70"/> |
 
-
 ## Sobre 
 O AgendaFCTE é um web‑app que centraliza todos os eventos da FCTE em um só lugar, exibindo data, hora, local, descrição, link de inscrição e contato. Usuários autenticados (por e‑mail) podem filtrar a lista por tema, localização ou palavra‑chave, favoritar eventos, cadastrar novos eventos e gerenciar inscrições com controle de vagas, além de entrar em contato direto com os organizadores.
 
-## Screenshots da Primeira Entrega
-Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
-
-## Há algo a ser executado?
-
-( ) SIM
-
-( ) NÃO
-
-Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
-
-## Informações Complementares 
-Quaisquer outras informações adicionais podem ser descritas nessa seção.
-
-## Histórico de Versões
+#### Histórico de Versões
 
 | Versão | Data | Descrição | Autor | Revisor | Comentário do Revisor |
 | -- | -- | -- | -- | -- | -- |
-| `1.0` | 16/04/2025 | Criação do documento |[Víctor Schmidt](https://github.com/moonshinerd) |   |  |
+| `1.0` | 16/04/2025 | Criação do documento |[Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) | Bom trabalho! |
+| `1.1` | 22/04/2025 | Restyle da sidebar |[Thales Euflauzino](https://github.com/thaleseuflauzino) |   |  |
+| `1.2` | 22/04/2025 | Criação da coverpage |[Thales Euflauzino](https://github.com/thaleseuflauzino) |   |  |
+| `1.3` | 22/04/2025 | Adição do método de pesquisa |[Thales Euflauzino](https://github.com/thaleseuflauzino) |   |  |
