@@ -8,19 +8,39 @@ Na primeira imagem, representamos tanto o fluxo de inscrição em um evento quan
 
 Outrossim, destaca-se que todo esse fluxo já considera a existência de uma classe Usuário, a qual não apresenta dependência alguma com os outros elementos do diagrama.
 
+<center>
+<p><b>Figura 1 - Diagrama de Sequência - Fluxo de Busca e Inscrição em Evento</b></p>
+
+<img src="../assets/diagrama-sequencia/diagrama_sequencia_victorio.png" alt="diagramaseq1" width="100%">
+
+<font size="2">
+<p style="text-align: center">
+<b>*Autor: <a href="https://github.com/Victor-oss">Victório Lázaro</a>*</b>
+</p>
+</font>
+</center>
+
+<br>
 
 <center>
+<p><b>Figura 2 - Diagrama de Sequência - Favoritar, Visualizar Favoritos e Recomendar Eventos</b></p>
 
-<a id="diagramaseq1">**Figura 1 - Diagrama de Sequência - Fluxo de Busca e Inscrição em Evento**</a>
+<img src="../assets/diagrama-sequencia/diagrama_favoritos.png" alt="diagramaseq2" width="100%">
 
-![diagramaseq1](../assets/diagrama-sequencia/diagrama_sequencia_victorio.png)  
-<font size="2"><p style="text-align: center"><b>*Autor: <a href="https://github.com/Victor-oss">Victório Lázaro</a>*</b></p></font>
+<font size="2">
+<p style="text-align: center">
+<b>*Autora: <a href="https://github.com/rayenealmeida">Rayene Almeida</a>*</b>
+</p>
+</font>
 </center>
 
 ## Referências Bibliográficas
 
 > [<a id='ref1'>1</a>] BELL, Donald. *Explore the UML sequence diagram*. IBM Developer, 09 out. 2023. Disponível em: <https://developer.ibm.com/articles/the-sequence-diagram/?mhsrc=ibmsearch_a&mhq=sequence%20diagram&mhp=0/>. Acesso em: 21 abr. 2025.
->
+
+> [<a id='ref2'>2</a>] SOUZA, Gildásio; CAVALCANTE, Eduardo. Apostila UML. [s.l.]: [s.n.], 2023. Disponível em: <https://aprender3.unb.br/mod/page/view.php?id=1368333>. Acesso em: 22 abr. 2025.
+
+> [<a id='ref3'>3</a>] BARCELAR, Ricardo Rodrigues. Módulo 3 – Modelagem de Sistemas Orientada a Objetos com UML. Brasília: [s.n.], 2023. Disponível em: <https://aprender3.unb.br/mod/page/view.php?id=1368333>. Acesso em: 22 abr. 2025.
 
 ## Histórico de Versões
 
@@ -28,3 +48,4 @@ Outrossim, destaca-se que todo esse fluxo já considera a existência de uma cla
 | ------ | ---------- | ----------------------- | ------------------------------------------------- | ------------------------------------------------------ | --------------------- |
 | `1.0`    | 17/04/2025 | Elaboração do esqueleto para entrega 2    |[Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)  | Aprovação do PR, ótimo trabalho |
 | `1.1`    | 21/04/2025 | Adição do diagrama de esquema para busca e inscrição de eventos   |[Victório Lázaro](https://github.com/Victor-oss) |  | |
+| `1.2`    | 22/04/2025 | Adição do diagrama de esquema para favoritos e recomendações de eventos   |[Rayene Almeida](https://github.com/rayenealmeida) |  | |
