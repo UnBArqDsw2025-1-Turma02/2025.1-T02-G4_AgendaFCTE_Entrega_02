@@ -113,6 +113,32 @@ Este registro corresponde aos fluxos relacionados aos seguintes requisitos:
 <font size="2"><p style="text-align: center"><b>*Autor: <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a>*</b></p></font>
 </center>
 
+
+### Registro 5
+
+Este registro descreve a modelagem dos fluxos referentes aos requisitos:
+
+- [RF06](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf6) – Sugerir novos eventos: permite que os usuários proponham a criação de novos eventos, os quais podem ser analisados pelos organizadores.
+- [RF15](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf15) – Participar de fórum/comentários com moderação: possibilita a interação entre usuários e organizadores através de comentários públicos com moderação.
+- [RF16](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf16) – Denunciar evento inadequado: permite que o usuário reporte conteúdos ou eventos indevidos à moderação da plataforma.
+- [RF19](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf19) – Recomendação com base no perfil e histórico: o sistema personaliza a exibição de eventos de acordo com as preferências e interações anteriores do usuário.
+- [RF26](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf26) – Curtir evento: possibilita ao usuário expressar interesse e gerar impacto em futuras recomendações.
+- [RF27](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf27) – Marcar desinteresse: permite ao usuário sinalizar eventos que não deseja mais visualizar.
+- [RF29](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf29) – Requisitar participação ativa: permite ao usuário solicitar um espaço em eventos para apresentações ou colaborações, como saraus e rodas de conversa.
+
+O fluxo representa ações de **personalização, engajamento, moderação de conteúdo e protagonismo do usuário** na plataforma, fortalecendo sua participação na construção da experiência de eventos.
+
+<center>
+
+<a id="fig5">**Figura 5 – Registro 5**</a>
+
+![Figura5](../assets/casos-de-uso/registros/reg5.png)  
+<font size="2"><p style="text-align: center"><b>*Autora: <a href="https://github.com/rayenealmeida">Rayene Almeida</a>*</b></p></font>
+</center>
+
+
+
+
 ## Referências Bibliográficas
 
 > [<a id='ref1'>1</a>] JACOBSON, Ivar; CHRISTERSON, Magnus; JONSSON, Patrik; ÖVERGAARD, Gunnar. **Object‑oriented software engineering: a use case driven approach**. New York; Wokingham, Eng.; Reading, Mass.: ACM Press; Addison‑Wesley, 1992. Disponível em: <https://archive.org/details/ivar-jacobson-object-oriented-software-engineering-a-use-case-driven-approach-ac>. Acesso em: 19 abr. 2025.
@@ -129,3 +155,4 @@ Este registro corresponde aos fluxos relacionados aos seguintes requisitos:
 | `1.1`    | 19/04/2025 | Adicionando quadro de casos de uso no Draw.io para elaborar os casos de uso, adicionando introdução, metodologia e referências bibliográficas. Adicionando também tabela de Elementos do diagrama de casos de uso | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) | Boa organização! |
 | `1.2`    | 19/04/2025 | Adicionando fluxos dos requisitos RF01, RF02, RF03, RF04, RF05, RF09, RF18 e RF22 e registrando autoria | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) | Bom trabalho! |
 | `1.3`    | 20/04/2025 | Adicionando fluxos dos requisitos RF10, RF12, RF24, RF14, RF25, RF28 , RF08 e RF18 e registrando autoria | [Thales Euflauzino](https://github.com/thaleseuflauzino) |  |  |
+| `1.4`    | 24/04/2025 | Adicionando fluxos dos requisitos  RF06, RF15, RF16, RF19, RF26, RF27 e RF29 e registrando autoria  | [Rayene Almeida](https://github.com/rayenealmeida) |  |  |
