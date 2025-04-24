@@ -7,16 +7,16 @@ Neste contexto, a utilização de um quadro de conhecimentos permite uma visuali
 
 ## Quadro de Conhecimentos
 
-Foi elaborada uma planilha colaborativa onde cada integrante acessou sua respectiva aba e atribuiu uma nota de 1 a 5 para cada tecnologia, onde 1 representa baixo conhecimento e 5 representa domínio completo. A partir dessas notas, a página principal da planilha foi configurada para calcular automaticamente a média das avaliações em cada habilidade, permitindo uma visão geral da distribuição de conhecimentos dentro do grupo.
+Foi elaborada uma [Planilha Colaborativa](https://docs.google.com/spreadsheets/d/1TP2uG2DvR7LTbJeLcpTEE5SZguJ76Jt7TaHyzsq_Zm0/edit?usp=sharing) onde cada integrante acessou sua respectiva aba e atribuiu uma nota de 1 a 5 para cada tecnologia, onde 1 representa baixo conhecimento e 5 representa domínio. A partir dessas notas, a página principal da planilha foi configurada para calcular automaticamente a média das avaliações em cada habilidade, permitindo uma visão geral da distribuição de conhecimentos dentro do grupo.
 
 <center>
 
-<a id="quadro_conhecimentos" href="https://docs.google.com/spreadsheets/d/1TP2uG2DvR7LTbJeLcpTEE5SZguJ76Jt7TaHyzsq_Zm0/edit?gid=1324617691#gid=1324617691" style="display: block; text-align: center;">
-  <b>Quadro de conhecimentos</b>
-</a>
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQxJiDCRXW01_VJ6PRXsifAIxxfHVCj1mV1e5_f4HdPm_fJdhWeK1OUv4Cqqi4H-TzmWKrLuZT4gkY8/pubhtml?gid=1324617691&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="400" style="border: none;" ></iframe>
+![quadro de conhecimentos](../assets/quadroConhecimentos.png)
 
-<font size="2"><p style="text-align: center"><b>*Autor: <a href="https://github.com/manu-sgc">Manoela Garcia</a>*</b></p></font>
+<div>
+  <p align="center"><b>Autor:</b> <a href="https://www.github.com/manu-sgc">Manoela Garcia</a></p>
+</div>
+
 </center>
 
 ## Resultados
@@ -37,3 +37,4 @@ Vale destacar que essas decisões são baseadas no cenário atual, mas podem ser
 | `1.0`    | 17/04/2025 | Elaboração do esqueleto para entrega 2    |[Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)  | Aprovação do PR, ótimo trabalho |
 | `1.1`    | 23/04/2025 | Quadro de conhecimentos adicionado |[Alexandre Junior](https://github.com/AlexandreLJr) |  |  |
 | `1.2`    | 23/04/2025 | Adição de texto explicativo do quadro e dos resultados |[Manoela Garcia](https://github.com/manu-sgc) |  |  |
+| `1.3`    | 24/04/2025 | Troca da imagem do quadro com novos resultados e adição do link do google sheets |[Manoela Garcia](https://github.com/manu-sgc) |  |  |
