@@ -35,6 +35,6 @@ Vale destacar que essas decisões são baseadas no cenário atual, mas podem ser
 | Versão | Data       | Descrição               | Autor                                             | Revisor                                                | Comentário do Revisor |
 | ------ | ---------- | ----------------------- | ------------------------------------------------- | ------------------------------------------------------ | --------------------- |
 | `1.0`    | 17/04/2025 | Elaboração do esqueleto para entrega 2    |[Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)  | Aprovação do PR, ótimo trabalho |
-| `1.1`    | 23/04/2025 | Quadro de conhecimentos adicionado |[Alexandre Junior](https://github.com/AlexandreLJr) |  |  |
-| `1.2`    | 23/04/2025 | Adição de texto explicativo do quadro e dos resultados |[Manoela Garcia](https://github.com/manu-sgc) |  |  |
-| `1.3`    | 24/04/2025 | Troca da imagem do quadro com novos resultados e adição do link do google sheets |[Manoela Garcia](https://github.com/manu-sgc) |  |  |
+| `1.1`    | 23/04/2025 | Quadro de conhecimentos adicionado |[Alexandre Junior](https://github.com/AlexandreLJr) | [Maykon Soares](https://github.com/maykonjuso) | Aprovação do PR, quadro de conhecimento sem necessidade de correções |
+| `1.2`    | 23/04/2025 | Adição de texto explicativo do quadro e dos resultados |[Manoela Garcia](https://github.com/manu-sgc) | [Maykon Soares](https://github.com/maykonjuso) | Aprovação de PR, quadro de texto explicativo sem necessidade de correções |
+| `1.3`    | 24/04/2025 | Troca da imagem do quadro com novos resultados e adição do link do google sheets |[Manoela Garcia](https://github.com/manu-sgc) | [Maykon Soares](https://github.com/maykonjuso) | Aprovação de PR, imagem atualizada com a versão da planilha, link do sheets redirecionando para o local correto e com permissão de visualização para usuário sem permissão prévia |
