@@ -20,11 +20,13 @@
     - [2.5. Iniciativas Extras](./Modelagem/2.5.IniciativasExtras.md)
       - [2.5.1. Cronograma](./Modelagem/2.5.1.Cronograma/2.5.1.Cronograma.md)
         - [2.5.1.1. Cronograma Planejado](./Modelagem/2.5.1.Cronograma/2.5.1.1.CronogramaPlanejado.md)
+        - [2.5.1.2. Cronograma Executado](./Modelagem/2.5.1.Cronograma/2.5.1.2.CronogramaExecutado.md)
       - [2.5.2. Heatmap](./Modelagem/heatmap.md)
       - [2.5.3. Quadro de Conhecimentos](./Modelagem/quadroConhecimento.md)
       - [2.5.4. NFR Framework](./Modelagem/NFR.md)
       - [2.5.5. Especificações de Casos de Uso](./Modelagem/EspCasodeUso.md)
       - [2.5.6. Especificação Suplementar](./Modelagem/EspSuplementar.md)
+      - [2.5.7. Requisitos Elicitados (etapa 1)](./Modelagem/requisitos.md)
 - **Atas**
   - [Ata modelo](./Atas/AtaModelo.md)
   - [Ata 1](./Atas/ata01.md)
