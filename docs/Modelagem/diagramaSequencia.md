@@ -4,7 +4,7 @@ O diagrama de sequência é utilizado principalmente para mostrar as interaçõe
 
 ## Diagrama de Sequência
 
-Na primeira imagem, representamos tanto o fluxo de inscrição em um evento quanto o de busca por um evento. Para esse fluxo, é necessário que o usuário esteja logado. O diagrama apresenta duas seções do sistema, Navegador (representando as principais views) e Controladora, as quais o usuário interage e realiza requisições. É possível notar que há um loop como fluxo alternativo, em que o usuário pode filtrar os eventos dentro da plataforma. Também, é possível o usuário requisitar a visualização de detalhes de um evento, para que assim possa se inscrever nele.
+Na primeira imagem, representamos tanto o fluxo de inscrição em um evento, o qual o usuário precisa estar logado, quanto o de busca por um evento. O diagrama apresenta duas seções do sistema, Navegador (representando as principais views) e Controladora, as quais o usuário interage e realiza requisições. É possível notar que há um loop como fluxo alternativo, em que o usuário pode filtrar os eventos dentro da plataforma. Também, é possível o usuário requisitar a visualização de detalhes de um evento, para que assim possa se inscrever nele.
 
 Outrossim, destaca-se que todo esse fluxo já considera a existência de uma classe Usuário, a qual não apresenta dependência alguma com os outros elementos do diagrama.
 
@@ -13,11 +13,7 @@ Outrossim, destaca-se que todo esse fluxo já considera a existência de uma cla
 
 <img src="../assets/diagrama-sequencia/diagrama_sequencia_victorio.png" alt="diagramaseq1" width="100%">
 
-<font size="2">
-<p style="text-align: center">
-<b>*Autor: <a href="https://github.com/Victor-oss">Victório Lázaro</a>*</b>
-</p>
-</font>
+<font size="2"><p style="text-align: center"><b>*Autor: <a href="https://github.com/Victor-oss">Victório Lázaro</a>*</b></p></font>
 </center>
 
 <br>
@@ -32,11 +28,7 @@ Esse fluxo inicia com o usuário favoritando um evento, podendo depois acessar s
 
 <img src="../assets/diagrama-sequencia/diagrama_favoritos.png" alt="diagramaseq2" width="100%">
 
-<font size="2">
-<p style="text-align: center">
-<b>*Autora: <a href="https://github.com/rayenealmeida">Rayene Almeida</a>*</b>
-</p>
-</font>
+<font size="2"><p style="text-align: center"><b>*Autor: <a href="https://github.com/rayenealmeida">Rayene Almeida</a>*</b></p></font>
 </center>
 
 ## Referências Bibliográficas
@@ -52,7 +44,7 @@ Esse fluxo inicia com o usuário favoritando um evento, podendo depois acessar s
 | Versão | Data       | Descrição               | Autor                                             | Revisor                                                | Comentário do Revisor |
 | ------ | ---------- | ----------------------- | ------------------------------------------------- | ------------------------------------------------------ | --------------------- |
 | `1.0`    | 17/04/2025 | Elaboração do esqueleto para entrega 2    |[Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)  | Aprovação do PR, ótimo trabalho |
-| `1.1`    | 21/04/2025 | Adição do diagrama de esquema para busca e inscrição de eventos   |[Victório Lázaro](https://github.com/Victor-oss) |  | |
-| `1.2`    | 22/04/2025 | Adição do diagrama de esquema para favoritos e recomendações de eventos   |[Rayene Almeida](https://github.com/rayenealmeida) |  | |
-| `1.3`    | 23/04/2025 | Correção do diagrama de esquema para busca e inscrição de eventos   |[Victório Lázaro](https://github.com/Victor-oss) |  | |
-| `1.4`    | 23/04/2025 | Adição da especificação das funcionalidades no diagrama que precisam de login  |[Rayene Almeida](https://github.com/rayenealmeida) |  | |
+| `1.1`    | 21/04/2025 | Adição do diagrama de esquema para busca e inscrição de eventos   |[Victório Lázaro](https://github.com/Victor-oss) | [Manoela Garcia](https://github.com/manu-sgc) | Só corrigir o que necessita de login |
+| `1.2`    | 22/04/2025 | Adição do diagrama de esquema para favoritos e recomendações de eventos   |[Rayene Almeida](https://github.com/rayenealmeida) | [Manoela Garcia](https://github.com/manu-sgc) | Só adicionar o texto explicativo |
+| `1.3`    | 23/04/2025 | Correção do diagrama de esquema para busca e inscrição de eventos   |[Victório Lázaro](https://github.com/Victor-oss) | [Manoela Garcia](https://github.com/manu-sgc) | Ficou muito bom!! |
+| `1.4`    | 23/04/2025 | Adição da especificação das funcionalidades no diagrama que precisam de login  |[Rayene Almeida](https://github.com/rayenealmeida) | [Manoela Garcia](https://github.com/manu-sgc) | Tá ótimo! Aprovação do PR |
