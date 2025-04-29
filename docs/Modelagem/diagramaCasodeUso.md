@@ -136,8 +136,37 @@ O fluxo representa ações de **personalização, engajamento, moderação de co
 <font size="2"><p style="text-align: center"><b>*Autora: <a href="https://github.com/rayenealmeida">Rayene Almeida</a>*</b></p></font>
 </center>
 
+### Registro 6
 
+Este registro descreve a modelagem dos fluxos referentes aos requisitos:
 
+- [RF11](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf11) – O sistema deve permitir o cadastro de tags de interesse para personalizar recomendações de eventos.
+- [RF13](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf13) – O sistema deve ter um histórico de eventos para que o usuário acompanhe eventos passados, edições futuras e interações.
+- [RF17](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf17) – O aplicativo deve emitir certificados de participação em eventos, quando definido pelo organizador.
+- [RF30](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf30) – O sistema deve exibir fotos ou vídeos de edições anteriores dos eventos.
+
+<center>
+
+<a id="fig5">**Figura 6 – Registro 6**</a>
+
+![Figura6](../assets/casos-de-uso/registros/reg6.png)  
+<font size="2"><p style="text-align: center"><b>*Autor: <a href="https://github.com/Victor-oss">Victório Lázaro</a>*</b></p></font>
+</center>
+
+### Registro 7
+
+Este registro descreve a modelagem dos fluxos referentes aos requisitos:
+
+- [RF23](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf23) – O aplicativo deve permitir que os usuários sigam organizadores e páginas de eventos.
+- [RF31](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf31) – O aplicativo deve enviar notificações via WhatsApp ou outras redes sociais.
+
+<center>
+
+<a id="fig5">**Figura 7 – Registro 7**</a>
+
+![Figura6](../assets/casos-de-uso/registros/reg7.png)  
+<font size="2"><p style="text-align: center"><b>*Autor: <a href="https://github.com/Victor-oss">Victório Lázaro</a>*</b></p></font>
+</center>
 
 ## Referências Bibliográficas
 
@@ -156,3 +185,4 @@ O fluxo representa ações de **personalização, engajamento, moderação de co
 | `1.2`    | 19/04/2025 | Adicionando fluxos dos requisitos RF01, RF02, RF03, RF04, RF05, RF09, RF18 e RF22 e registrando autoria | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) | Bom trabalho! |
 | `1.3`    | 20/04/2025 | Adicionando fluxos dos requisitos RF10, RF12, RF24, RF14, RF25, RF28 , RF08 e RF18 e registrando autoria | [Thales Euflauzino](https://github.com/thaleseuflauzino) |  |  |
 | `1.4`    | 24/04/2025 | Adicionando fluxos dos requisitos  RF06, RF15, RF16, RF19, RF26, RF27 e RF29 e registrando autoria  | [Rayene Almeida](https://github.com/rayenealmeida) |  |  |
+| `1.5`    | 29/04/2025 | Adicionando fluxos dos requisitos RF11, RF13, RF17, RF23, RF30 e RF31 e registrando autoria  | [Victório Lázaro](https://github.com/Victor-oss) |  |  |
