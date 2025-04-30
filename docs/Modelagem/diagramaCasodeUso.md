@@ -168,6 +168,23 @@ Este registro descreve a modelagem dos fluxos referentes aos requisitos:
 <font size="2"><p style="text-align: center"><b>*Autor: <a href="https://github.com/Victor-oss">Victório Lázaro</a>*</b></p></font>
 </center>
 
+### Registro 8
+
+Este registro descreve a modelagem dos fluxos referentes aos requisitos:
+
+- [RF07](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf07) – Eventos podem ser marcados com até 6 meses de antecedência.
+- [RF20](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf20) – O sistema deve disponibilizar o contato do organizador para esclarecimento de dúvidas e informações adicionais.
+- [RF21](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf21) – O aplicativo deve permitir criação de perfis e autenticação dos usuários, inclusive por e-mail.
+
+
+<center>
+
+<a id="fig8">**Figura 8 – Registro 8**</a>
+
+![Figura8](../assets/casos-de-uso/registros/reg8.png)  
+<font size="2"><p style="text-align: center"><b>*Autor: <a href="https://github.com/joaolucas102">João Lucas Costa</a>*</b></p></font>
+</center>
+
 ## Referências Bibliográficas
 
 > [<a id='ref1'>1</a>] JACOBSON, Ivar; CHRISTERSON, Magnus; JONSSON, Patrik; ÖVERGAARD, Gunnar. **Object‑oriented software engineering: a use case driven approach**. New York; Wokingham, Eng.; Reading, Mass.: ACM Press; Addison‑Wesley, 1992. Disponível em: <https://archive.org/details/ivar-jacobson-object-oriented-software-engineering-a-use-case-driven-approach-ac>. Acesso em: 19 abr. 2025.
@@ -186,3 +203,5 @@ Este registro descreve a modelagem dos fluxos referentes aos requisitos:
 | `1.3`    | 20/04/2025 | Adicionando fluxos dos requisitos RF10, RF12, RF24, RF14, RF25, RF28 , RF08 e RF18 e registrando autoria | [Thales Euflauzino](https://github.com/thaleseuflauzino) |  |  |
 | `1.4`    | 24/04/2025 | Adicionando fluxos dos requisitos  RF06, RF15, RF16, RF19, RF26, RF27 e RF29 e registrando autoria  | [Rayene Almeida](https://github.com/rayenealmeida) |  |  |
 | `1.5`    | 29/04/2025 | Adicionando fluxos dos requisitos RF11, RF13, RF17, RF23, RF30 e RF31 e registrando autoria  | [Victório Lázaro](https://github.com/Victor-oss) |  |  |
+| `1.6`    | 30/04/2025 | Adicionando fluxos dos requisitos RF07, RF20, RF21 e registrando autoria  | [João Lucas Costa](https://github.com/joaolucas102) |  |  |
+
