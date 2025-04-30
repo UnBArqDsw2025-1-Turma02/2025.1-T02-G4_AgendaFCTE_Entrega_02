@@ -4,6 +4,18 @@ O diagrama de pacotes é um dos diagramas estruturais da UML utilizados para rep
 
 Esse tipo de diagrama é permite uma modelagem modular e escalável. Ao representar as interações entre os pacotes, o diagrama contribui para uma melhor organização do código-fonte e promove práticas de desenvolvimento orientadas à separação de responsabilidades e reutilização de componentes.
 
+## Elementos 
+
+Os principais elementos de um diagrama de pacotes são:
+
+- Pacote (Package): Representado como uma pasta, o pacote é utilizado para agrupar elementos relacionados, como classes, interfaces ou outros pacotes. Ele ajuda a estruturar o sistema de forma hierárquica e modular.
+
+- Dependência (Dependency): Representada por uma seta tracejada, indica que um pacote depende de outro para funcionar corretamente. Isso significa que há algum tipo de relacionamento ou uso entre os elementos internos desses pacotes.
+
+- Importação (Import): Também indicada por uma seta tracejada, com a palavra-chave <<import>>, mostra que um pacote importa elementos de outro pacote para utilizá-los em seu próprio contexto.
+
+- Acesso (Access): Representado com a palavra-chave <<access>>, esse tipo de dependência indica que um pacote pode acessar os elementos públicos de outro pacote, sem necessariamente importar todos os seus recursos.
+
 ## Camadas
 
 ### Model
@@ -16,9 +28,6 @@ Esse tipo de diagrama é permite uma modelagem modular e escalável. Ao represen
 É encarregado da estrutura e do layout visual da interface. Contém os arquivos HTML, CSS e, quando aplicável, frameworks como Bootstrap para estilização. Os templates são utilizados pela View para renderizar o conteúdo visual de forma consistente, separando a lógica de apresentação da estrutura de design.
 
 
-## Elementos
-
-
 ## Resultados
 
 
@@ -28,4 +37,5 @@ Esse tipo de diagrama é permite uma modelagem modular e escalável. Ao represen
 | Versão | Data       | Descrição               | Autor                                             | Revisor                                                | Comentário do Revisor |
 | ------ | ---------- | ----------------------- | ------------------------------------------------- | ------------------------------------------------------ | --------------------- |
 | `1.0`    | 17/04/2025 | Elaboração do esqueleto para entrega 2    |[Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)  | Aprovação do PR, ótimo trabalho |
-| `1.1`    | 29/04/2025 | Introdução e  Camadas MVT |[Pedro Lopes](https://github.com/pLopess) |  |  |
+| `1.1`    | 29/04/2025 | Introdução e  Camadas MVT |[Pedro Lopes](https://github.com/pLopess) | [Alexandre Junior](https://github.com/AlexandreLJr)  | Interface funcionando e bom texto adicionado  |
+| `1.2`    | 29/04/2025 | Adicionando explicação de elementos |[Alexandre Junior](https://github.com/AlexandreLJr) |  |  |
