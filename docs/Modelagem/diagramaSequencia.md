@@ -11,7 +11,7 @@ Outrossim, destaca-se que todo esse fluxo já considera a existência de uma cla
 <center>
 <p><b>Figura 1 - Diagrama de Sequência - Fluxo de Busca e Inscrição em Evento</b></p>
 
-<img src="../assets/diagrama-sequencia/diagrama_sequencia_victorio.png" alt="diagramaseq1" width="100%">
+![Diagrama de Sequência 1](../assets/diagrama-sequencia/diagrama_sequencia_victorio.png)
 
 <font size="2"><p style="text-align: center"><b>*Autor: <a href="https://github.com/Victor-oss">Victório Lázaro</a>*</b></p></font>
 </center>
@@ -26,7 +26,7 @@ Esse fluxo inicia com o usuário favoritando um evento, podendo depois acessar s
 <center>
 <p><b>Figura 2 - Diagrama de Sequência - Favoritar, Visualizar Favoritos e Recomendar Eventos</b></p>
 
-<img src="../assets/diagrama-sequencia/diagrama_favoritos.png" alt="diagramaseq2" width="100%">
+![Diagrama de Sequência 1](../assets/diagrama-sequencia/diagrama_favoritos.png)
 
 <font size="2"><p style="text-align: center"><b>*Autor: <a href="https://github.com/rayenealmeida">Rayene Almeida</a>*</b></p></font>
 </center>
