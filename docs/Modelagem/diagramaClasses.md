@@ -15,4 +15,4 @@ Cada classe é representada por um retângulo dividido em três partes: o nome d
 | Versão | Data       | Descrição               | Autor                                             | Revisor                                                | Comentário do Revisor |
 | ------ | ---------- | ----------------------- | ------------------------------------------------- | ------------------------------------------------------ | --------------------- |
 | `1.0`    | 17/04/2025 | Elaboração do esqueleto para entrega 2    |[Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)  | Aprovação do PR, ótimo trabalho |
-| `1.1`    | 30/04/2025 | Adicionando introdução e bibliografia    |[Alexandre Junior](https://github.com/AlexandreLJr) |  |  |
+| `1.1`    | 30/04/2025 | Adicionando introdução e bibliografia    |[Alexandre Junior](https://github.com/AlexandreLJr) | [Pedro Lopes](https://github.com/pLopess) | Boa estrutura inicial |
