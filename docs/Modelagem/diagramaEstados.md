@@ -54,6 +54,27 @@ Ele registra o que foi feito na versão `1.1` e `1.2` pelo membro [Víctor Schmi
 <font size="2"><p style="text-align: center"><b>*Autor: <a href="https://github.com/moonshinerd">Víctor Schmidt</a>*</b></p></font>
 </center>
 
+### Registro 2:
+Este registro descreve a modelagem dos fluxos referentes aos requisitos:
+
+- [RF08](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf8) – Limitar a quantidade de vagas por evento, definidas pelos organizadores.  
+- [RF11](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf11) – Cadastro de tags de interesse para personalizar recomendações de eventos.  
+- [RF13](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf13) – Histórico de eventos para acompanhamento de eventos passados e edições futuras. 
+- [RF16](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf16) – Denúncia de eventos inadequados ou com problemas.  
+- [RF17](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf17) – Emissão de certificados de participação, quando definido pelo organizador.  
+- [RF23](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf23) – Usuários podem seguir organizadores e páginas de eventos.
+- [RF28](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf28) – Comentar e avaliar eventos.  
+- [RF30](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf30) – Exibir fotos ou vídeos de edições anteriores dos eventos.  
+
+Ele registra o que foi feito na versão `1.3` pelo membro [Victor Bernardes](https://github.com/VHbernardes) quanto ao diagrama de estados atualizado.
+
+<center>
+
+<a id="fig2">**Figura 2 - Registro 2**</a>
+
+![Figura2](../assets/diagrama-estados/registro/registro2.png)  
+<font size="2"><p style="text-align: center"><b>*Autor: <a href="https://github.com/VHbernardes">Victor Bernardes</a>*</b></p></font>
+</center>
 
 ## Referência Bibliográfica
 
@@ -72,3 +93,4 @@ Ele registra o que foi feito na versão `1.1` e `1.2` pelo membro [Víctor Schmi
 | `1.0`    | 17/04/2025 | Elaboração do esqueleto para entrega 2    |[Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)  | Aprovação do PR, ótimo trabalho |
 | `1.1`    | 21/04/2025 | Adicionando introdução, referências bibliográficas e tabela 1 com os elementos do diagrama de estados    | [Víctor Schmidt](https://github.com/moonshinerd) |   |  |
 | `1.2`    | 22/04/2025 | Adicionando registro 1 e os requisitos trabalhados nesse registro dentro do diagrama de estados | [Víctor Schmidt](https://github.com/moonshinerd) |   |  |
+| `1.3`    | 02/05/2025 | Adicionando registro 2 e os requisitos trabalhados nesse registro dentro do diagrama de estados | [Victor Bernardes](https://github.com/VHbernardes) |   |  |
