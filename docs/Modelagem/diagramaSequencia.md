@@ -32,6 +32,26 @@ Esse fluxo inicia com o usuário favoritando um evento, podendo depois acessar s
 <font size="2"><p style="text-align: center"><b>*Autor: <a href="https://github.com/rayenealmeida">Rayene Almeida</a>*</b></p></font>
 </center>
 
+
+### Fluxo de Cadastrar Eventos
+
+Na terceira imagem, representamos o fluxo de cadastro de eventos, funcionalidade exclusiva do perfil de organizador. O diagrama está dividido entre Navegador, Controladora e Entidades, refletindo o caminho que os dados percorrem desde a interface até o armazenamento no sistema.
+
+Esse fluxo se inicia quando o organizador acessa a tela de cadastro e preenche as informações do evento. Após o envio, os dados são validados e, se estiverem corretos, o evento é persistido no banco de dados. Notificações automáticas podem ser disparadas para usuários interessados.
+
+
+
+<center>
+
+<a id="fig3">**Figura 3 - Cadastrar Eventos**</a>
+
+![Figura3](../assets/diagrama-sequencia/diagrama_cadastro.png)  
+<font size="2"><p style="text-align: center"><b>*Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>*</b></p></font>
+</center>
+
+
+
+
 ## Referências Bibliográficas
 
 > [<a id='ref1'>1</a>] BELL, Donald. *Explore the UML sequence diagram*. IBM Developer, 09 out. 2023. Disponível em: <https://developer.ibm.com/articles/the-sequence-diagram/?mhsrc=ibmsearch_a&mhq=sequence%20diagram&mhp=0/>. Acesso em: 21 abr. 2025.
@@ -49,3 +69,4 @@ Esse fluxo inicia com o usuário favoritando um evento, podendo depois acessar s
 | `1.2`    | 22/04/2025 | Adição do diagrama de esquema para favoritos e recomendações de eventos   |[Rayene Almeida](https://github.com/rayenealmeida) | [Manoela Garcia](https://github.com/manu-sgc) | Só adicionar o texto explicativo |
 | `1.3`    | 23/04/2025 | Correção do diagrama de esquema para busca e inscrição de eventos   |[Victório Lázaro](https://github.com/Victor-oss) | [Manoela Garcia](https://github.com/manu-sgc) | Ficou muito bom!! |
 | `1.4`    | 23/04/2025 | Adição da especificação das funcionalidades no diagrama que precisam de login  |[Rayene Almeida](https://github.com/rayenealmeida) | [Manoela Garcia](https://github.com/manu-sgc) | Tá ótimo! Aprovação do PR |
+| `1.5`    | 02/05/2025 | Adição do diagrama de cadastro de eventos  |[Pedro Lopes](https://github.com/pLopess) | | |
