@@ -69,4 +69,4 @@ Esse fluxo se inicia quando o organizador acessa a tela de cadastro e preenche a
 | `1.2`    | 22/04/2025 | Adição do diagrama de esquema para favoritos e recomendações de eventos   |[Rayene Almeida](https://github.com/rayenealmeida) | [Manoela Garcia](https://github.com/manu-sgc) | Só adicionar o texto explicativo |
 | `1.3`    | 23/04/2025 | Correção do diagrama de esquema para busca e inscrição de eventos   |[Victório Lázaro](https://github.com/Victor-oss) | [Manoela Garcia](https://github.com/manu-sgc) | Ficou muito bom!! |
 | `1.4`    | 23/04/2025 | Adição da especificação das funcionalidades no diagrama que precisam de login  |[Rayene Almeida](https://github.com/rayenealmeida) | [Manoela Garcia](https://github.com/manu-sgc) | Tá ótimo! Aprovação do PR |
-| `1.5`    | 02/05/2025 | Adição do diagrama de cadastro de eventos  |[Pedro Lopes](https://github.com/pLopess) | | |
+| `1.5`    | 02/05/2025 | Adição do diagrama de cadastro de eventos  |[Pedro Lopes](https://github.com/pLopess) | [Manoela Garcia](https://github.com/manu-sgc) | Muito bom!!!! Aprovação do PR |
