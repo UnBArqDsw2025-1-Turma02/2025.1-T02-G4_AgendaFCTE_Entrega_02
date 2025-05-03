@@ -91,6 +91,6 @@ Ele registra o que foi feito na versão `1.3` pelo membro [Victor Bernardes](htt
 | Versão | Data | Descrição | Autor | Revisor | Comentário do Revisor |
 | -- | -- | -- | -- | -- | -- |
 | `1.0`    | 17/04/2025 | Elaboração do esqueleto para entrega 2    |[Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)  | Aprovação do PR, ótimo trabalho |
-| `1.1`    | 21/04/2025 | Adicionando introdução, referências bibliográficas e tabela 1 com os elementos do diagrama de estados    | [Víctor Schmidt](https://github.com/moonshinerd) |   |  |
-| `1.2`    | 22/04/2025 | Adicionando registro 1 e os requisitos trabalhados nesse registro dentro do diagrama de estados | [Víctor Schmidt](https://github.com/moonshinerd) |   |  |
-| `1.3`    | 02/05/2025 | Adicionando registro 2 e os requisitos trabalhados nesse registro dentro do diagrama de estados | [Victor Bernardes](https://github.com/VHbernardes) |   |  |
+| `1.1`    | 21/04/2025 | Adicionando introdução, referências bibliográficas e tabela 1 com os elementos do diagrama de estados    | [Víctor Schmidt](https://github.com/moonshinerd) |  [Maykon Soares](https://github.com/maykonjuso) | Sem correções a serem feitas, PR aprovado.  |
+| `1.2`    | 22/04/2025 | Adicionando registro 1 e os requisitos trabalhados nesse registro dentro do diagrama de estados | [Víctor Schmidt](https://github.com/moonshinerd) | [Maykon Soares](https://github.com/maykonjuso)  | Sem correções a serem feitas, PR aprovado. |
+| `1.3`    | 02/05/2025 | Adicionando registro 2 e os requisitos trabalhados nesse registro dentro do diagrama de estados | [Victor Bernardes](https://github.com/VHbernardes) | [Maykon Soares](https://github.com/maykonjuso) | Sem correções a serem feitas, PR aprovado. |
