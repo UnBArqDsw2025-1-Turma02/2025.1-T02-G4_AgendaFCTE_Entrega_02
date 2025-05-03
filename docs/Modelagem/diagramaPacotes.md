@@ -32,13 +32,9 @@ Os principais elementos de um diagrama de pacotes são:
 
 ## Resultados
 
-A seguir, tem-se o Diagrama de Pacotes
+A seguir, tem-se o Diagrama de Pacotes da AgendaFCTE dividido em Backend e Frontend.
 
 <center>
-
-<a id="diagrama1" href="https://app.diagrams.net/#G19bpV9_C1NomwXSGzNaMkvWafu9349-7Z#%7B%22pageId%22%3A%22sKJrEsGhBjPw2eS2lhO7%22%7D" style="display: block; text-align: center;">
-  <b>Diagrama 1</b> – Diagrama de Pacotes
-</a>
 
 <a id="fig1">**Figura 1 - Diagrama de Pacotes**</a>
 
@@ -107,9 +103,21 @@ Organizado em pacotes lógicos que representam as responsabilidades da aplicaç�
 - DRF → serializers.py → models.py: o DRF utiliza os serializers para converter dados entre objetos Python e JSON.
 - models.py → MySQL: os modelos refletem e interagem com as tabelas do banco de dados.
 
+## Gravação
+Segue a gravação do grupo se reunindo para fazer o Diagrama de Pacotes do dia 29/04/2025.
+
+<center>
+
+[Gravação do vídeo](https://youtu.be/cuPVdnlGUGg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cuPVdnlGUGg" title="Reunião Diagrama de Pacotes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center"><b>*Autores: <a href="https://github.com/AlexandreLJr">Alexandre Junior, </a><a href="https://github.com/manu-sgc">Manoela Garcia, </a><a href="https://github.com/maykonjuso">Maykon Júnio, </a><a href="https://github.com/pLopess">Pedro Lopes, </a><a href="https://github.com/VHbernardes">Victor Bernardes</a>*</b></p></font>
+</center>
+
 ## Referências Bibliográficas
 
 > [<a id='ref1'>1</a>] UML DIAGRAMS. *Package Diagrams Overview. UML Diagrams*, 2009. Disponível em: <https://www.uml-diagrams.org/package-diagrams-overview.html>. Acesso em: 31 abr. 2025.
+
 
 ## Histórico de Versões
 
@@ -120,3 +128,4 @@ Organizado em pacotes lógicos que representam as responsabilidades da aplicaç�
 | `1.2`    | 29/04/2025 | Adicionando explicação de elementos |[Alexandre Junior](https://github.com/AlexandreLJr) |  |  |
 | `1.3`    | 02/05/2025 | Adição de mais uma camada e da explicação da imagem |[Manoela Garcia](https://github.com/manu-sgc) |  |  |
 | `1.4`    | 02/05/2025 | Adição do diagrama de pacotes |[Victor Bernardes](https://github.com/VHbernardes) |  |  |
+| `1.5`    | 03/05/2025 | Adição da gravação |[Manoela Garcia](https://github.com/manu-sgc) |  |  |
