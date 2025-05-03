@@ -36,9 +36,13 @@ A seguir, tem-se o Diagrama de Pacotes
 
 <center>
 
+<a id="diagrama1" href="https://app.diagrams.net/#G19bpV9_C1NomwXSGzNaMkvWafu9349-7Z#%7B%22pageId%22%3A%22sKJrEsGhBjPw2eS2lhO7%22%7D" style="display: block; text-align: center;">
+  <b>Diagrama 1</b> – Diagrama de Pacotes
+</a>
+
 <a id="fig1">**Figura 1 - Diagrama de Pacotes**</a>
 
-![Figura4]()  
+![Figura1](../assets/diagrama-pacotes/Diagrama-Pacotes.png)  
 <font size="2"><p style="text-align: center"><b>*Autores: <a href="https://github.com/AlexandreLJr">Alexandre Junior, </a><a href="https://github.com/manu-sgc">Manoela Garcia, </a><a href="https://github.com/maykonjuso">Maykon Júnio, </a><a href="https://github.com/pLopess">Pedro Lopes, </a><a href="https://github.com/VHbernardes">Victor Bernardes</a>*</b></p></font>
 </center>
 
@@ -113,3 +117,4 @@ Organizado em pacotes lógicos que representam as responsabilidades da aplicaç�
 | `1.1`    | 29/04/2025 | Introdução e  Camadas MVT |[Pedro Lopes](https://github.com/pLopess) | [Alexandre Junior](https://github.com/AlexandreLJr)  | Interface funcionando e bom texto adicionado  |
 | `1.2`    | 29/04/2025 | Adicionando explicação de elementos |[Alexandre Junior](https://github.com/AlexandreLJr) |  |  |
 | `1.3`    | 02/05/2025 | Adição de mais uma camada e da explicação da imagem |[Manoela Garcia](https://github.com/manu-sgc) |  |  |
+| `1.4`    | 02/05/2025 | Adição do diagrama de pacotes |[Victor Bernardes](https://github.com/VHbernardes) |  |  |
