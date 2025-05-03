@@ -17,6 +17,7 @@ Esse diagrama foi feito com base nas tecnologias escolhidas após elaboração d
 ## Referências Bibliográficas
 
 > [<a id='ref1'>1</a>] LUCIDCHART. *O que é um diagrama de implementação?*. s.l., s.d. Disponível em: <https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-implementacao-uml>. Acesso em: 01 mai. 2025.
+> [<a id='ref2'>2</a>] UML DIAGRAMS. *Package Diagrams Overview. UML Diagrams*, 2009. Disponível em: <https://www.uml-diagrams.org/deployment-diagrams-overview.html>. Acesso em: 31 abr. 2025.
 
 ## Histórico de Versões
 
