@@ -59,10 +59,12 @@ Esta seção representa a interface com o usuário (UI), estruturada da seguinte
 - HTML – estrutura da página.
 - CSS – estilização visual.
 - JAVASCRIPT – interatividade.
+- REACT – componentes reutilizáveis e dinâmicos, integrados aos templates para maior interatividade.
 
 **SCHEDULING LOGIC**: Contém a lógica de agendamento e controle da interface, utilizando scripts como:
 
 - template.js – responsável pela manipulação dinâmica da interface e eventuais requisições ao backend.
+- componentes React – gerenciam estados e comportamentos interativos da interface de forma modular.
 
 
 ### Backend
