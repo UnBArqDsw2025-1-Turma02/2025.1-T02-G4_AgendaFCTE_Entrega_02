@@ -29,7 +29,7 @@ As funcionalidades principais do sistema estão descritas nos documentos de elic
 | [RNF08](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Modelagem/requisitos) | BRFN08 | O sistema deve seguir diretrizes de acessibilidade, como as WCAG, permitindo o uso por pessoas com diferentes deficiências. |
 | [RNF09](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Modelagem/requisitos) | QS19 | O sistema deve apresentar um design atrativo, moderno e alinhado com a identidade visual da FCTE. |
 
-<font size="3"><p style="text-align: center">Autor:<a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a>, 2025</p></font>
+<font size="3"><p style="text-align: center">Autores: <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a> e <a href="https://github.com/joaolucas102">João Lucas Costa</a>, 2025</p></font>
 
 ---
 
@@ -43,7 +43,7 @@ As funcionalidades principais do sistema estão descritas nos documentos de elic
 | [RNF04](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Modelagem/requisitos) | BRFN04, EN12 | O sistema deve garantir a proteção dos dados pessoais dos usuários, estando em conformidade com a LGPD e utilizando criptografia quando necessário. |
 | [RNF10](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Modelagem/requisitos) | QS21 | O sistema deve garantir a confiabilidade das informações exibidas. |
 
-<font size="3"><p style="text-align: center">Autor:<a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a>, 2025</p></font>
+<font size="3"><p style="text-align: center">Autores: <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a> e <a href="https://github.com/joaolucas102">João Lucas Costa</a>, 2025</p></font>
 
 ---
 
@@ -57,7 +57,7 @@ As funcionalidades principais do sistema estão descritas nos documentos de elic
 | [RNF06](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Modelagem/requisitos) | BRFN06 | O sistema deve implementar mecanismos de monitoramento e registro (logs) das atividades. |
 | [RNF07](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Modelagem/requisitos) | BRFN07 | O sistema deve ser compatível com diversos navegadores e dispositivos, assegurando uma experiência consistente para todos os usuários. |
 
-<font size="3"><p style="text-align: center">Autor:<a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a>, 2025</p></font>
+<font size="3"><p style="text-align: center">Autores: <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a> e <a href="https://github.com/joaolucas102">João Lucas Costa</a>, 2025</p></font>
 
 ---
 
@@ -70,7 +70,7 @@ As funcionalidades principais do sistema estão descritas nos documentos de elic
 | [RNF02](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Modelagem/requisitos) | BRFN02, QS18, EN13 | O tempo de resposta para operações como busca, filtragem e carregamento de eventos deve ser de no máximo 4 segundos, mesmo com grande volume de dados. |
 | [RNF11](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Modelagem/requisitos) | QS22 | O sistema deve ter boa escalabilidade, mantendo desempenho mesmo com aumento da demanda. |
 
-<font size="3"><p style="text-align: center">Autor:<a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a>, 2025</p></font>
+<font size="3"><p style="text-align: center">Autores: <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a> e <a href="https://github.com/joaolucas102">João Lucas Costa</a>, 2025</p></font>
 
 ---
 
@@ -82,7 +82,7 @@ As funcionalidades principais do sistema estão descritas nos documentos de elic
 |-----------|--------|-----------|
 | [RNF12](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Modelagem/requisitos) | QS23 | O sistema deve enviar notificações automáticas conforme a preferência configurada pelo usuário. |
 
-<font size="3"><p style="text-align: center">Autor:<a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a>, 2025</p></font>
+<font size="3"><p style="text-align: center">Autores: <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a> e <a href="https://github.com/joaolucas102">João Lucas Costa</a>, 2025</p></font>
 
 ## Bibliografia
 
@@ -95,4 +95,4 @@ As funcionalidades principais do sistema estão descritas nos documentos de elic
 | Versão | Data       | Descrição               | Autor                                             | Revisor                                                | Comentário do Revisor |
 | ------ | ---------- | ----------------------- | ------------------------------------------------- | ------------------------------------------------------ | --------------------- |
 | `1.0`    | 17/04/2025 | Elaboração do esqueleto para entrega 2    |[Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)  | Aprovação do PR, ótimo trabalho |
-| `1.1`    | 21/04/2025 | Elaboração de todo o documento no modelo FURPS+    |[Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) | Artefato muito bem feito e ótimas referências, PR aprovado. |
+| `1.1`    | 21/04/2025 | Elaboração de todo o documento no modelo FURPS+    |[Thales Euflauzino](https://github.com/thaleseuflauzino) e [João Lucas Costa](https://github.com/joaolucas102) | [Víctor Schmidt](https://github.com/moonshinerd) | Artefato muito bem feito e ótimas referências, PR aprovado. |
