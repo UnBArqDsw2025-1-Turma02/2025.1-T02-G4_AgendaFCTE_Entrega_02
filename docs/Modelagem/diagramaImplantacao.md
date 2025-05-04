@@ -24,6 +24,27 @@ Após analisar e revisar o Diagrama 1, [Manoela Garcia](https://github.com/manu-
 <font size="2"><p style="text-align: center"><b>*Autores: <a href="https://github.com/manu-sgc">Manoela Garcia, </a><a href="https://github.com/VHbernardes">Victor Bernardes</a>*</b></p></font>
 </center>
 
+
+#### 1. PC e Dispositivo Mobile
+- Representam os clientes finais (usuários) acessando a aplicação via navegadores (Browser).
+- Ambos se conectam à aplicação através do protocolo HTTPS, garantindo uma comunicação segura com o servidor.
+
+#### 2. Frontend Web
+- É o servidor que hospeda a interface gráfica da aplicação desenvolvida com React.
+- Comunica-se com os usuários via HTTPS.
+- Também se comunica com o Backend API por HTTPS, solicitando ou enviando dados.
+
+#### 3. Backend API
+- É o servidor que executa a lógica da aplicação, baseado no framework Django.
+- Usa o servidor Gunicorn como WSGI HTTP server, que serve de intermediário entre o Django e os pedidos HTTP.
+- Recebe requisições do frontend por HTTPS.
+- Se comunica com o banco de dados via protocolo TCP.
+
+#### 4. Servidor Banco de Dados
+- Armazena os dados da aplicação utilizando o MySQL como SGBD.
+- Fornece e recebe dados da API via TCP, sem expor esse acesso diretamente aos clientes ou ao frontend.
+
+
 ## Referências Bibliográficas
 
 > [<a id='ref1'>1</a>] LUCIDCHART. *O que é um diagrama de implementação?*. s.l., s.d. Disponível em: <https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-implementacao-uml>. Acesso em: 01 mai. 2025.
@@ -36,3 +57,4 @@ Após analisar e revisar o Diagrama 1, [Manoela Garcia](https://github.com/manu-
 | `1.0`    | 17/04/2025 | Elaboração do esqueleto para entrega 2    |[Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)  | Aprovação do PR, ótimo trabalho |
 | `1.1`    | 01/05/2025 | Adição do diagrama de implantação  |[Victório Lázaro](https://github.com/Victor-oss) | | |
 | `1.2`    | 03/05/2025 | Adição da segunda versão do diagrama  |[Manoela Garcia](https://github.com/manu-sgc) | | |
+| `1.3`    | 04/05/2025 | Adição da explicação dos elementos do Diagrama  |[Victor Bernardes](https://github.com/VHbernardes) | | |
