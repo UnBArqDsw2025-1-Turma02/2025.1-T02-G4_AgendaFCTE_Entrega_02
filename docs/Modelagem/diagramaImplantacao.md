@@ -55,6 +55,6 @@ Após analisar e revisar o Diagrama 1, [Manoela Garcia](https://github.com/manu-
 | Versão | Data       | Descrição               | Autor                                             | Revisor                                                | Comentário do Revisor |
 | ------ | ---------- | ----------------------- | ------------------------------------------------- | ------------------------------------------------------ | --------------------- |
 | `1.0`    | 17/04/2025 | Elaboração do esqueleto para entrega 2    |[Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)  | Aprovação do PR, ótimo trabalho |
-| `1.1`    | 01/05/2025 | Adição do diagrama de implantação  |[Victório Lázaro](https://github.com/Victor-oss) | | |
-| `1.2`    | 03/05/2025 | Adição da segunda versão do diagrama  |[Manoela Garcia](https://github.com/manu-sgc) | | |
-| `1.3`    | 04/05/2025 | Adição da explicação dos elementos do Diagrama  |[Victor Bernardes](https://github.com/VHbernardes) | | |
+| `1.1`    | 01/05/2025 | Adição do diagrama de implantação  |[Victório Lázaro](https://github.com/Victor-oss) |[Rayene Almeida](https://github.com/rayenealmeida) | Não foi necessário correções, PR Aprovado|
+| `1.2`    | 03/05/2025 | Adição da segunda versão do diagrama  |[Manoela Garcia](https://github.com/manu-sgc) | [Rayene Almeida](https://github.com/rayenealmeida)  | Não foi necessário correções, PR Aprovado |
+| `1.3`    | 04/05/2025 | Adição da explicação dos elementos do Diagrama  |[Victor Bernardes](https://github.com/VHbernardes) | [Rayene Almeida](https://github.com/rayenealmeida)  | Não foi necessário correções, PR Aprovado |
