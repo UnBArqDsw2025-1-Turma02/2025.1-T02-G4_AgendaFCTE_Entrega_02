@@ -205,9 +205,4 @@ Este registro descreve a modelagem dos fluxos referentes aos requisitos:
 | `1.4`    | 24/04/2025 | Adicionando fluxos dos requisitos  RF06, RF15, RF16, RF19, RF26, RF27 e RF29 e registrando autoria  | [Rayene Almeida](https://github.com/rayenealmeida) | [Pedro Lopes](https://github.com/pLopess) |  |
 | `1.5`    | 29/04/2025 | Adicionando fluxos dos requisitos RF11, RF13, RF17, RF23, RF30 e RF31 e registrando autoria  | [Victório Lázaro](https://github.com/Victor-oss) | [Pedro Lopes](https://github.com/pLopess) |  |
 | `1.6`    | 30/04/2025 | Adicionando fluxos dos requisitos RF07, RF20, RF21 e registrando autoria  | [João Lucas Costa](https://github.com/joaolucas102) | [Pedro Lopes](https://github.com/pLopess) | Bom trabalho, boa rastreabilidade e organização! |
-
-=======
-| `1.3`    | 20/04/2025 | Adicionando fluxos dos requisitos RF10, RF12, RF24, RF14, RF25, RF28 , RF08 e RF18 e registrando autoria | [Thales Euflauzino](https://github.com/thaleseuflauzino) |  |  |
-| `1.4`    | 24/04/2025 | Adicionando fluxos dos requisitos  RF06, RF15, RF16, RF19, RF26, RF27 e RF29 e registrando autoria  | [Rayene Almeida](https://github.com/rayenealmeida) |  |  |
-| `1.5`    | 05/05/2025 | Atualizando imagem do registro 5  | [Rayene Almeida](https://github.com/rayenealmeida) |  |  |
->>>>>>> Stashed changes
+| `1.7`    | 05/05/2025 | Atualizando imagem do registro 5  | [Rayene Almeida](https://github.com/rayenealmeida) |  |  |
