@@ -17,6 +17,20 @@ Versão inicial do diagrama de classes do app Agenda UnB, contém as principais 
 
 <br>
 
+### Versão 02: 
+
+Versão 2 do diagrama com algumas alterações realizadas, como adição de encapsulamento da versão 1 e outras classes e relacionamentos adicionadas.
+
+<center>
+<p><b>Figura 2 - Diagrama de Classes, versão 2</b></p>
+
+<img src="../assets/diagrama-classes/DiagramaClasses2.png" alt="diagramaclass2" width="100%">
+
+<font size="2"><p style="text-align: center"><b>*Autor: <a href="https://github.com/AlexandreLJr">Alexandre Junior</a>*</b></p></font>
+</center>
+
+<br>
+
 
 ## Bibliografia 
 > Lucid Software Inc. (s.d.). Lucidchart. O que é um diagrama de classe UML? Disponível em: https://unbarqdsw2024-2.github.io/2024.2_G6_Agenda_Entrega_02/#/./foco1/d_classes Acesso em 30 de abril de 2025.
@@ -31,3 +45,4 @@ Versão inicial do diagrama de classes do app Agenda UnB, contém as principais 
 | `1.0`    | 17/04/2025 | Elaboração do esqueleto para entrega 2    |[Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)  | Aprovação do PR, ótimo trabalho |
 | `1.1`    | 30/04/2025 | Adicionando introdução e bibliografia    |[Alexandre Junior](https://github.com/AlexandreLJr) | [Pedro Lopes](https://github.com/pLopess) | Boa estrutura inicial |
 | `1.2`    | 02/05/2025 | Adicionando diagrama de classes inicial  |[Pedro Lopes](https://github.com/pLopess) |  |  |
+| `1.3`    | 02/05/2025 | Adicionando versão 2 do diagrama de classes |[Alexandre Junior](https://github.com/AlexandreLJr) |  |  |
