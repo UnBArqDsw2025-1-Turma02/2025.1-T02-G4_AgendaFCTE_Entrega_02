@@ -91,6 +91,9 @@ Ele registra o que foi feito na versão `1.5` pelo membro [Rayene Almeida](https
 <font size="2"><p style="text-align: center"><b>*Autora: <a href="https://github.com/rayenealmeida">Rayene Almeida</a>*</b></p></font>
 </center>
 
+
+
+
 ## Referências Bibliográficas
 
 > [<a id='ref1'>1</a>] BELL, Donald. *UML basics: The component diagram*. IBM Developer, 15 dez. 2004. Disponível em: [https://developer.ibm.com/articles/the-component-diagram]. Acesso em: 20 abr. 2025.
