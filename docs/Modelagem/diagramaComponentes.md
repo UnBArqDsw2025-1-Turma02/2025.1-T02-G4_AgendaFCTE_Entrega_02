@@ -63,6 +63,37 @@ Ele registra o que foi feito na versão `1.2` e `1.3` pelo membro [Thales Euflau
 <font size="2"><p style="text-align: center"><b>*Autor: <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a>*</b></p></font>
 </center>
 
+
+# Registro 3
+
+Este registro descreve a modelagem dos fluxos referentes aos requisitos:
+
+- [RF02](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf2) – Integração com redes sociais e outros canais para compartilhamento de eventos.  
+- [RF08](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf8) – Limitar quantidade de vagas por evento (definido por organizadores).  
+- [RF15](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf15) – Sistema de fóruns/comentários com moderação.  
+- [RF16](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf16) – Denúncia de eventos inadequados.  
+- [RF18](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf18) – Inscrição e resgate de ingressos.  
+- [RF19](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf19) – Recomendação de eventos baseada em preferências.  
+- [RF20](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf20) – Disponibilizar contato do organizador.  
+- [RF22](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf22) – Controle de acesso a eventos exclusivos (vinculados à UnB).  
+- [RF27](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf27) – Indicar desinteresse em eventos.  
+- [RF29](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf29) – Requisitar participação ativa (ex: apresentações).  
+- [RF30](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf30) – Exibir fotos/vídeos de edições anteriores.  
+- [RF31](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G4_AgendaFCTE_Entrega_01/#/./Base/1.5.3.PriorizacaoMosCoW?id=rf31) – Notificações via WhatsApp/redes sociais.
+
+Ele registra o que foi feito na versão `1.5` pelo membro [Rayene Almeida](https://github.com/rayenealmeida) quanto ao diagrama de componentes.
+
+<center>
+
+<a id="fig3">**Figura 3 - Registro 3**</a>
+
+![Figura3](../assets/diagrama-componentes/registro3.jpg)  
+<font size="2"><p style="text-align: center"><b>*Autora: <a href="https://github.com/rayenealmeida">Rayene Almeida</a>*</b></p></font>
+</center>
+
+
+
+
 ## Referências Bibliográficas
 
 > [<a id='ref1'>1</a>] BELL, Donald. *UML basics: The component diagram*. IBM Developer, 15 dez. 2004. Disponível em: [https://developer.ibm.com/articles/the-component-diagram]. Acesso em: 20 abr. 2025.
@@ -76,6 +107,8 @@ Ele registra o que foi feito na versão `1.2` e `1.3` pelo membro [Thales Euflau
 | Versão | Data | Descrição | Autor | Revisor | Comentário do Revisor |
 | -- | -- | -- | -- | -- | -- |
 | `1.0`    | 17/04/2025 | Elaboração do esqueleto para entrega 2 |[Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)  | Aprovação do PR, ótimo trabalho |
-| `1.1`    | 21/04/2025 | Adição da introdução técnica sólida com fontes bibliográficas confiáveis. <br> Inserção e embedding do diagrama (com link e iframe).<br> Listagem e vinculo dos requisitos funcionais (RFs) modelados no diagrama na minha autoria. <br> Registrou sua contribuição com clareza na seção de versão.<br> Inserção da imagem do registro com legenda e autoria junto com texto justificativo. | [Víctor Schmidt](https://github.com/moonshinerd) |  |  |
-| `1.2`    | 21/04/2025 | Adição dos requisitos escolhidos para a elaboração do diagrama de componentes. | [Thales Euflauzino](https://github.com/thaleseuflauzino) |  |  |
-| `1.3`    | 21/04/2025 | Adição do registro da nova versão do diagrama de componentes. | [Thales Euflauzino](https://github.com/thaleseuflauzino) |  |  |
+| `1.1`    | 21/04/2025 | Adição da introdução técnica sólida com fontes bibliográficas confiáveis. <br> Inserção e embedding do diagrama (com link e iframe).<br> Listagem e vinculo dos requisitos funcionais (RFs) modelados no diagrama na minha autoria. <br> Registrou sua contribuição com clareza na seção de versão.<br> Inserção da imagem do registro com legenda e autoria junto com texto justificativo. | [Víctor Schmidt](https://github.com/moonshinerd) | [Victor Bernardes](https://github.com/VHbernardes) | Verificado e revisado, ótimo trabalho |
+| `1.2`    | 21/04/2025 | Adição dos requisitos escolhidos para a elaboração do diagrama de componentes. | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Bernardes](https://github.com/VHbernardes) | Verificado e revisado, ótimo trabalho |
+| `1.3`    | 21/04/2025 | Adição do registro da nova versão do diagrama de componentes. | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Bernardes](https://github.com/VHbernardes) | Verificado e revisado, ótimo trabalho |
+| `1.4`    | 05/05/2025 | Adição dos requisitos escolhidos para a elaboração do diagrama de componentes. | [Rayene Almeida](https://github.com/rayenealmeida) | [Victor Bernardes](https://github.com/VHbernardes) | Verificado e revisado, ótimo trabalho |
+| `1.5`    | 07/05/2025 | Adição do registro da nova versão do diagrama de componentes. | [Rayene Almeida](https://github.com/rayenealmeida) | [Victor Bernardes](https://github.com/VHbernardes) | Aprovação do PR, ótimo trabalho |
