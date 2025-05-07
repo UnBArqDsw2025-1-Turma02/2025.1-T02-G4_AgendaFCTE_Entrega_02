@@ -215,6 +215,91 @@ Este caso de uso permite ao participante de um evento (aluno ou usuário autenti
   - Carga horária
   - Assinatura digital
 
+--
+
+## Especificação de Caso de Uso: Buscar evento
+
+### 1. Breve Descrição
+
+Permite ao usuário, esteja ele logado ou não, visualizar os eventos disponíveis na agenda da FCTE.
+
+
+---
+
+### 2. Atores
+
+- **Pessoa da Comunidade ou Aluno da FCTE**
+- **Sistema de Agenda FCTE**
+
+---
+
+### 3. Fluxo Básico de Eventos
+
+**Início:** Usuário clica em **“Visualizar Eventos”**.
+
+1. O sistema apresenta botão **Visualizar Eventos** na tela inicial.
+2. O participante clica em **Visualizar Eventos**.
+3. O sistema leva o usuário à uma nova tela mostrado um calendário do mês atual e sem nenhum outro filto aplicado.
+4. Caso de uso encerrado.
+
+---
+
+### 4. Requisitos Especiais
+
+1. Interface acessível (leitores de tela, alto contraste).
+
+---
+
+## Especificação de Caso de Uso: Buscar evento por nome, data e categorias
+
+### 1. Breve Descrição
+
+Permite ao usuário, logado ou não, só visualizar os eventos que atendem certos pré-requisitos.
+
+---
+
+### 2. Atores
+
+- **Pessoa da Comunidade ou Aluno da FCTE**
+- **Sistema de Agenda FCTE**
+
+---
+
+### 3. Fluxo Básico de Eventos
+
+**Início:** Usuário está na tela com o calendário de eventos
+
+1. O sistema apresenta os campos para escrever o nome do eventou ou selecionar a categoria do evento, além dele poder trocar o mês e ano do calendário visualizado.
+2. O participante pode mudar os valores dos campos de nome e categorias.
+3. Quando ele clica em um dos dias do calendário, o sistema exibe uma lista dos eventos desse dia na tela e os eventos devem respeitar os filtros selecionados.
+4. Caso de uso encerrado.
+
+---
+
+### 4. Fluxos Alternativos
+
+#### 4.1 FE01 – Usuário muda os filtros com dia no calendário selecionado
+
+- **Quando:** Depois do passo 3.
+- **Fluxo:**
+  1. O usuário altera os campos de nome e categorias quando um dia já foi selecionado e já está sendo exibido na tela uma lista com os eventos de um dia
+  2. O sistema deve atualizar a lista de eventos para só mostrar os eventos que respeitam os filtros definidos.
+  3. Caso de uso encerrado.
+
+---
+
+### 5. Pré-Condições
+
+1. Mês e ano escolhidos para mostrar o calendário
+
+---
+
+### 6. Requisitos Especiais
+
+1. Interface acessível (leitores de tela, alto contraste).
+
+---
+
 ## Referências Bibliográficas
 
 > [<a id='ref1'>1</a>] JACOBSON, Ivar; CHRISTERSON, Magnus; JONSSON, Patrik; ÖVERGAARD, Gunnar. **Object-oriented software engineering: a use case driven approach**. New York; Wokingham, Eng.; Reading, Mass.: ACM Press; Addison-Wesley, 1992. Disponível em: <https://archive.org/details/ivar-jacobson-object-oriented-software-engineering-a-use-case-driven-approach-ac>. Acesso em: 19 abr. 2025.
@@ -231,3 +316,4 @@ Este caso de uso permite ao participante de um evento (aluno ou usuário autenti
 | `1.1`  | 03/05/2025 | Introdução sobre especificação e inclusão de primeira especificação | [Maykon Soares](https://github.com/maykonjuso)           |                                                  |                                 |
 | `1.2`  | 05/05/2025 | Inclusão de casos de uso "Adicionar Evento à Minha Agenda"          | [Maykon Soares](https://github.com/maykonjuso)           |                                                  |                                 |
 | `1.3`  | 06/05/2025 | Inclusão de casos de uso "Emitir Certificado de Participação"       | [Maykon Soares](https://github.com/maykonjuso)           |                                                  |                                 |
+| `1.4`  | 06/05/2025 | Inclusão de casos de uso "Buscar evento" e "Buscar evento por nome, data e categorias" | [Victório Lázaro](https://github.com/Victor-oss)           |                                                  |                                 |
