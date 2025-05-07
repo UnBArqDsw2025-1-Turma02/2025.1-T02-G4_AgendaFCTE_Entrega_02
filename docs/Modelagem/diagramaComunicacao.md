@@ -1,8 +1,8 @@
 ## Introdução
 
-    Durante a modelagem de um produto de software, é importante que o funcionamento lógico do sistema esteja organizado e coeso, afim não apenas de que a leitura do código do sistema seja intuitiva, como também que ele esteja funcionando de forma otimizada, aumentando o seu desempenho e reduzindo o uso de memória. Com esse objetivo, surge o Diagrama de Comunicação, para determinar como os objetos de um sistema mantém comunicação, usando as funções adequadas nos momentos solicitados e também salvando dados nos locais e momentos adequados. 
-    Esse documento busca representar a troca de mensagens, chamadas de funções e envio de informações entre diferentes objetos do sistema: AgendaFCTE.
-    É importante ressaltar, que esse diagrama foi montado idealizando um sistema orientado a objetos.
+Durante a modelagem de um produto de software, é importante que o funcionamento lógico do sistema esteja organizado e coeso, afim não apenas de que a leitura do código do sistema seja intuitiva, como também que ele esteja funcionando de forma otimizada, aumentando o seu desempenho e reduzindo o uso de memória. Com esse objetivo, surge o Diagrama de Comunicação, para determinar como os objetos de um sistema mantém comunicação, usando as funções adequadas nos momentos solicitados e também salvando dados nos locais e momentos adequados. 
+Esse documento busca representar a troca de mensagens, chamadas de funções e envio de informações entre diferentes objetos do sistema: AgendaFCTE.
+É importante ressaltar, que esse diagrama foi montado idealizando um sistema orientado a objetos.
 
 
 
