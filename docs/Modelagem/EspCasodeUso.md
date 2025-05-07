@@ -300,6 +300,211 @@ Permite ao usuário, logado ou não, só visualizar os eventos que atendem certo
 
 ---
 
+## Especificação de Caso de Uso: Recomendação de Eventos
+
+### 1. Breve Descrição
+
+Permite que o sistema sugira eventos personalizados ao participante com base em suas interações anteriores, eventos curtidos, participações anteriores e preferências cadastradas. O objetivo é aumentar o engajamento e promover eventos relevantes.
+
+---
+
+### 2. Atores
+
+- **Participante** (usuário autenticado)
+- **Sistema de Recomendação**
+
+---
+
+### 3. Fluxo Básico de Eventos
+
+**Início:** Participante acessa a página “Eventos Recomendados”.
+
+1. O participante acessa o menu “Eventos Recomendados”.
+2. O sistema coleta dados do usuário: eventos curtidos, categorias favoritas, histórico de participação.
+3. O sistema processa os dados com base no algoritmo de recomendação.
+4. O sistema exibe uma lista personalizada de eventos.
+5. O participante pode:
+   - Clicar em evento para ver detalhes
+   - Curtir evento
+   - Adicionar à agenda
+6. Caso de uso encerrado.
+
+---
+
+### 4. Fluxos Alternativos
+
+#### 4.1 FE01 – Sem dados suficientes
+
+- **Quando:** No passo 2, se o sistema não tiver interações suficientes.
+- **Fluxo:**
+  1. O sistema exibe mensagem:
+     > “Ainda não temos recomendações para você. Interaja com eventos para receber sugestões personalizadas.”
+  2. Exibe eventos populares como sugestão.
+  3. Caso de uso encerrado.
+
+---
+
+### 5. Pré-Condições
+
+- Participante autenticado
+- Sistema de recomendação ativo
+
+---
+
+### 6. Pós-Condições
+
+- Lista personalizada exibida
+- Registro de interação atualizado
+
+---
+
+### 7. Requisitos Especiais
+
+- Algoritmo deve considerar a variável curtidas
+
+---
+
+### 8. Pontos de Extensão
+
+- Pode ser acessado a partir da home ou menu 
+
+---
+
+## Especificação de Caso de Uso: Curtir Evento
+
+### 1. Breve Descrição
+
+Permite ao participante demonstrar interesse em um evento clicando no ícone de “curtir”, influenciando o algoritmo de recomendação e aumentando a visibilidade do evento.
+
+---
+
+### 2. Atores
+
+- **Participante**
+- **Sistema da Agenda FCTE**
+
+---
+
+### 3. Fluxo Básico de Eventos
+
+**Início:** Participante visualiza um evento.
+
+1. O sistema exibe ícone de “Curtir”.
+2. O participante clica no ícone.
+3. O sistema registra a ação na base de dados.
+4. Ícone muda de estado para “curtido”.
+5. Caso de uso encerrado.
+
+---
+
+### 4. Fluxos Alternativos
+
+#### 4.1 FE01 – Curtida já existente
+
+- **Quando:** O evento já foi curtido anteriormente.
+- **Fluxo:**
+  1. O sistema interpreta como “descurtir”.
+  2. Remove a curtida do banco de dados.
+  3. Ícone volta ao estado original.
+
+---
+
+### 5. Pré-Condições
+
+- Participante autenticado
+- Evento disponível
+
+---
+
+### 6. Pós-Condições
+
+- Curtida registrada ou removida
+- Atualização do algoritmo de recomendação
+
+---
+
+### 7. Requisitos Especiais
+
+- A ação de curtida deve ser refletida em tempo real na interface
+
+---
+
+### 8. Pontos de Extensão
+
+- Integra-se com “Recomendação de Eventos”
+
+---
+
+## Especificação de Caso de Uso: Denunciar Evento
+
+### 1. Breve Descrição
+
+Permite que o participante sinalize eventos com conteúdo impróprio ou incorreto. O sistema registra a denúncia e envia para análise de moderadores.
+
+---
+
+### 2. Atores
+
+- **Participante**
+- **Moderador**
+- **Sistema da Agenda FCTE**
+
+---
+
+### 3. Fluxo Básico de Eventos
+
+**Início:** Participante acessa os detalhes de um evento.
+
+1. O participante clica em “Denunciar Evento”.
+2. O sistema exibe um formulário com categorias de denúncia.
+3. O participante preenche a justificativa e envia.
+4. O sistema registra a denúncia e notifica os moderadores.
+5. Exibe mensagem de confirmação:
+   > “Sua denúncia foi registrada e será analisada. Obrigado pelo feedback.”
+6. Caso de uso encerrado.
+
+---
+
+### 4. Fluxos Alternativos
+
+#### 4.1 FE01 – Campos não preenchidos
+
+- **Quando:** Justificativa não informada.
+- **Fluxo:**
+  1. O sistema impede envio.
+  2. Exibe alerta:
+     > “Por favor, preencha o motivo da denúncia.”
+
+---
+
+### 5. Pré-Condições
+
+- Participante autenticado
+- Evento visível e ativo
+
+---
+
+### 6. Pós-Condições
+
+- Denúncia registrada no banco
+- Evento sinalizado para análise
+
+---
+
+### 7. Requisitos Especiais
+
+- Campos obrigatórios no formulário (categoria + justificativa)
+
+---
+
+### 8. Pontos de Extensão
+
+- Integração com módulo de moderação/administração
+
+---
+
+
+
 ## Referências Bibliográficas
 
 > [<a id='ref1'>1</a>] JACOBSON, Ivar; CHRISTERSON, Magnus; JONSSON, Patrik; ÖVERGAARD, Gunnar. **Object-oriented software engineering: a use case driven approach**. New York; Wokingham, Eng.; Reading, Mass.: ACM Press; Addison-Wesley, 1992. Disponível em: <https://archive.org/details/ivar-jacobson-object-oriented-software-engineering-a-use-case-driven-approach-ac>. Acesso em: 19 abr. 2025.
@@ -310,10 +515,11 @@ Permite ao usuário, logado ou não, só visualizar os eventos que atendem certo
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                                           | Autor                                                    | Revisor                                          | Comentário do Revisor           |
+| Versão | Data       | Descrição  | Autor   | Revisor  | Comentário do Revisor   |
 | ------ | ---------- | ------------------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------ | ------------------------------- |
 | `1.0`  | 17/04/2025 | Elaboração do esqueleto para entrega 2                              | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) | Aprovação do PR, ótimo trabalho |
 | `1.1`  | 03/05/2025 | Introdução sobre especificação e inclusão de primeira especificação | [Maykon Soares](https://github.com/maykonjuso)           |                                                  |                                 |
 | `1.2`  | 05/05/2025 | Inclusão de casos de uso "Adicionar Evento à Minha Agenda"          | [Maykon Soares](https://github.com/maykonjuso)           |                                                  |                                 |
 | `1.3`  | 06/05/2025 | Inclusão de casos de uso "Emitir Certificado de Participação"       | [Maykon Soares](https://github.com/maykonjuso)           |                                                  |                                 |
 | `1.4`  | 06/05/2025 | Inclusão de casos de uso "Buscar evento" e "Buscar evento por nome, data e categorias" | [Victório Lázaro](https://github.com/Victor-oss)           |                                                  |                                 |
+| `1.5`  | 07/05/2025 | Inclusão de casos de uso "Recomendação de eventos", "Curtir Evento" e "Denunciar evento" | [Rayene Almeida](https://github.com/rayenealmeida) | |     |
