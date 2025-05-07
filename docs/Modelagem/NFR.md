@@ -1,5 +1,5 @@
 ## Introdução
-o NFR Framework é uma abordagem para representar e analisar Requisitos Não-Funcionais (RNFs), que tem como objetivo implementar soluções específicas. Esse método leva em consideração as características gerais do sistema e de seu domínio. No contexto do NFR Framework, utiliza-se o modelo Softgoal Interdependency Graph (SIG).
+O NFR Framework é uma abordagem para representar e analisar Requisitos Não-Funcionais (RNFs), que tem como objetivo implementar soluções específicas. Esse método leva em consideração as características gerais do sistema e de seu domínio. No contexto do NFR Framework, utiliza-se o modelo Softgoal Interdependency Graph (SIG).
 
 ## Softgoal Interdependency Graph
 
@@ -355,8 +355,6 @@ Neste documento, serão apresentados 3 NFRs, com requisitos vindo dos [requisito
 
 > [<a id='ref1'>1</a>] SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019. Disponível em: <https://repositorio.ufpe.br/handle/123456789/34150>. Acesso em: 22/05/2023.
 
-## **Bibliografia**
-
 > SERRANO, Milene. Requisitos – Aula 17. 2017. Apresentação de slides. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972516/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf](https://aprender3.unb.br/pluginfile.php/2972516/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf). Acesso em: 16 de Dez. 2024.
 
 > NFR Framework. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: [https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/). Acesso em: 16 de Dez. 2024.
@@ -367,5 +365,5 @@ Neste documento, serão apresentados 3 NFRs, com requisitos vindo dos [requisito
 | ------ | ---------- | ----------------------- | ------------------------------------------------- | ------------------------------------------------------ | --------------------- |
 | `1.0`    | 17/04/2025 | Elaboração do esqueleto para entrega 2    |[Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)  | |
 | `1.1`    | 07/05/2025 | Adição dos tipos de Softgoal, contribuições e impactos |[Victor Bernardes](https://github.com/VHbernardes) | [Pedro Lopes](https://github.com/pLopess) | Ótimo conteúdo |
-| `1.2`    | 07/05/2025 | Adição dos NFR de Desempenho e Segurança, tabelas de impactos e cartões de especificação |[Pedro Lopes](https://github.com/pLopess) |  |  |
-| `1.3`    | 07/05/2025 | Adição do NFR de Usabilidade, tabela de impacto e cartão de especificação |[Victor Bernardes](https://github.com/VHbernardes) |  |  |
+| `1.2`    | 07/05/2025 | Adição dos NFR de Desempenho e Segurança, tabelas de impactos e cartões de especificação |[Pedro Lopes](https://github.com/pLopess) | [Manoela Garcia](https://github.com/manu-sgc) | Ótimo trabalho!! |
+| `1.3`    | 07/05/2025 | Adição do NFR de Usabilidade, tabela de impacto e cartão de especificação |[Victor Bernardes](https://github.com/VHbernardes) | [Manoela Garcia](https://github.com/manu-sgc) | Muito bom!!! Aprovação do PR |
