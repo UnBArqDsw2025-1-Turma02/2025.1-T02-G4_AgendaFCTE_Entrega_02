@@ -46,12 +46,9 @@ Demonstrar como os objetos interagem para realizar o **cadastro de um novo event
 
 <a id="fig1">**Figura 1**</a>
 
-![Figura1](docs\assets\diagrama-comu\diagramaDeComu.png)  
+![Figura1](../assets/diagrama-comu/diagramaDeComu.png)  
 <font size="2"><p style="text-align: center"><b>*Autor: <a href="https://github.com/joaolucas102">João Lucas Costa</a>*</b></p></font>
 </center>
-
-
-
 
 ## Histórico de Versões
 
