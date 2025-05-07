@@ -78,4 +78,4 @@ A elaboração deste documento adotou uma abordagem individual, na qual o integr
 | ------ | ---------- | ----------------------- | ------------------------------------------------- | ------------------------------------------------------ | --------------------- |
 | `1.0`    | 17/04/2025 | Elaboração do esqueleto para entrega 2    | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)  | Aprovação do PR, ótimo trabalho |
 | `1.1`    | 21/04/2025 | Elaboração das tabelas de participações por foco    | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) | Correção do título do foco 3 e aprovação do PR |
-| `1.2`    | 07/05/2025 | Preenchendo as tabelas com os comprobatórios    | [Thales Euflauzino](https://github.com/thaleseuflauzino) | |  |
+| `1.2`    | 07/05/2025 | Preenchendo as tabelas com os comprobatórios    | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) | Analisei as participações de cada membro e todas aparentam estar corretas, PR aprovado |
