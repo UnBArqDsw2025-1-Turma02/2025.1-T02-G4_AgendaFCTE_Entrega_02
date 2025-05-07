@@ -74,6 +74,110 @@ Compreender essas interdependências e seus impactos é crucial para tomar decis
 ## Metodologia
 Neste documento, serão apresentados 3 NFRs, com requisitos vindo dos [requisitos elicitados não funcionais](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-G4_AgendaFCTE_Entrega_02/#/./Modelagem/requisitos?id=rnf1). Para cada categoria, foi feito um SIG (Softgoal Interdependency Graph), um diagrama da propagação de impactos e um cartão de especificação, que possui informações sobre o NFR, como a descrição, a categoria, os conflitos, a origem, os critérios e outras informações. 
 
+
+## NFR 01 - Desempenho
+
+<font size="3"><p style="text-align: center"><b>Figura 3</b> - NFR de Desempenho</p></font>
+
+<center>
+
+![Desempenho](../assets/nfr/nfr_desempenho.png)
+</center>
+
+<font size="2"><p style="text-align: center"> Autores: [Pedro Lopes](https://github.com/pLopess) e [Victor Hugo](https://github.com/VHbernardes)</p></font>
+
+
+
+###  Impactos Desempenho 
+
+<font size="3"><p style="text-align: center"><b>Tabela 1</b>: Impactos Desempenho</p></font>
+
+<center>
+
+| **NFR**                                 | **Impacto** | **Avaliador**                          |
+|-----------------------------------------|-------------|----------------------------------------|
+| Desempenho                              | ✓           | [Pedro Lopes](https://github.com/pLopess) |
+| Rapidez                                 | 𝒲+          | [Pedro Lopes](https://github.com/pLopess) |
+| Resposta em 4ms                         | ✓           | [Pedro Lopes](https://github.com/pLopess) |
+| Manutenibilidade                        | 𝒲+          | [Pedro Lopes](https://github.com/pLopess) |
+| Código Modular                          | 𝒲−          | [Pedro Lopes](https://github.com/pLopess) |
+| Código bem documentado                  | 𝒲+          | [Pedro Lopes](https://github.com/pLopess) |
+| Escalabilidade                          | 𝒲+          | [Pedro Lopes](https://github.com/pLopess) |
+| Manter desempenho em alta demanda       | ✓           | [Pedro Lopes](https://github.com/pLopess) |
+
+</center>
+
+<font size="2"><p style="text-align: center"> Autores: [Pedro Lopes](https://github.com/pLopess) e [Victor Hugo](https://github.com/VHbernardes)</p></font>
+
+
+
+
+
+### Cartão de Especificação - Desempenho
+
+<font size="3"><p style="text-align: center"><b>Tabela 2</b>: Cartão de Especificação - Desempenho</p></font>
+
+
+| **ID do NFR**     | **Classificação: Desempenho**                                         |
+|-------------------|------------------------------------------------------------------------|
+| **Descrição:**    | Refere-se à capacidade do sistema de entregar respostas rápidas, com manutenção facilitada e desempenho consistente mesmo sob alta demanda. |
+| **Justificativa:**| Um sistema com bom desempenho melhora a experiência do usuário, facilita a manutenção e garante escalabilidade sem degradação perceptível. |
+| **Origem dos Requisitos:** | Os requisitos **RNF02**, **RNF05** e **RNF11**.                        |
+| **Dependências:** | - |
+| **Prioridade:**   | Alta                                                                  |
+| **Conflitos:**    | Potencial conflito entre modularidade e desempenho (trade-off entre RNF05 e RNF02). |
+
+<font size="2"><p style="text-align: center"> Autores: [Pedro Lopes](https://github.com/pLopess) e [Victor Hugo](https://github.com/VHbernardes)</p></font>
+
+
+## NFR 02 - Segurança
+
+
+<font size="3"><p style="text-align: center"><b>Figura 3</b> - NFR de Segurança</p></font>
+
+<center>
+
+![Segurança](../assets/nfr/nfr_seguranca.png)
+</center>
+
+<font size="2"><p style="text-align: center"> Autores: [Pedro Lopes](https://github.com/pLopess) e [Victor Hugo](https://github.com/VHbernardes)</p></font>
+
+###  Impactos Segurança 
+
+<font size="3"><p style="text-align: center"><b>Tabela 3</b>: Impactos Segurança </p></font>
+
+| **NFR**                                     | **Impacto** | **Avaliador**                          |
+|---------------------------------------------|-------------|----------------------------------------|
+| Segurança                                   | ✓           | [Pedro Lopes](https://github.com/pLopess) |
+| Proteção aos Usuários                       | 𝒲+          | [Pedro Lopes](https://github.com/pLopess) |
+| Conformidade com a LGPD                     | 𝒲+          | [Pedro Lopes](https://github.com/pLopess) |
+| Uso de Criptografia                         | 𝒲+          | [Pedro Lopes](https://github.com/pLopess) |
+| Autenticação e Autorização                  | 𝒲+          | [Pedro Lopes](https://github.com/pLopess) |
+| Informações                                 | 𝒲+          | [Pedro Lopes](https://github.com/pLopess) |
+| Confiabilidade dos dados exibidos           | ✓           | [Pedro Lopes](https://github.com/pLopess) |
+| Controle                                    | 𝒲+          | [Pedro Lopes](https://github.com/pLopess) |
+| Monitoramento e logs                        | ✓           | [Pedro Lopes](https://github.com/pLopess) |
+
+<font size="2"><p style="text-align: center"> Autores: [Pedro Lopes](https://github.com/pLopess) e [Victor Hugo](https://github.com/VHbernardes)</p></font>
+
+
+
+### Cartão de Especificação - Segurança
+
+<font size="3"><p style="text-align: center"><b>Tabela 4</b>: Cartão de Especificação - Segurança </p></font>
+
+
+| **ID do NFR**     | **Classificação: Segurança**                                           |
+|-------------------|------------------------------------------------------------------------|
+| **Descrição:**    | Refere-se à capacidade do sistema de proteger usuários e informações por meio de controle de acesso, conformidade legal e mecanismos de rastreabilidade. |
+| **Justificativa:**| Um sistema seguro preserva a integridade, confidencialidade e rastreabilidade dos dados, além de proteger os usuários e a organização contra riscos legais e operacionais. |
+| **Origem dos Requisitos:** | Os requisitos **RNF03**, **RNF04**, **RNF06** e **RNF10**.               |
+| **Dependências:** | - |
+| **Prioridade:**   | Alta                                                                  |
+| **Conflitos:**    | Nenhum identificado.                                                   |
+
+<font size="2"><p style="text-align: center"> Autores: [Pedro Lopes](https://github.com/pLopess) e [Victor Hugo](https://github.com/VHbernardes)</p></font>
+
 ## Referências Bibliográficas
 
 > [<a id='ref1'>1</a>] SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019. Disponível em: <https://repositorio.ufpe.br/handle/123456789/34150>. Acesso em: 22/05/2023.
@@ -88,5 +192,6 @@ Neste documento, serão apresentados 3 NFRs, com requisitos vindo dos [requisito
 
 | Versão | Data       | Descrição               | Autor                                             | Revisor                                                | Comentário do Revisor |
 | ------ | ---------- | ----------------------- | ------------------------------------------------- | ------------------------------------------------------ | --------------------- |
-| `1.0`    | 17/04/2025 | Elaboração do esqueleto para entrega 2    |[Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)  | Aprovação do PR, ótimo trabalho |
-| `1.1`    | 07/05/2025 | Adição dos tipos de Softgoal, contribuições e impactos |[Victor Bernardes](https://github.com/VHbernardes) |   |  |
+| `1.0`    | 17/04/2025 | Elaboração do esqueleto para entrega 2    |[Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)  | |
+| `1.1`    | 07/05/2025 | Adição dos tipos de Softgoal, contribuições e impactos |[Victor Bernardes](https://github.com/VHbernardes) | [Pedro Lopes](https://github.com/pLopess) | Ótimo conteúdo |
+| `1.2`    | 07/05/2025 | Adição dos NFR de Desempenho e Segurança, tabelas de impactos e cartões de especificação |[Pedro Lopes](https://github.com/pLopess) |  |  |
