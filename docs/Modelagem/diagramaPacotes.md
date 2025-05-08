@@ -128,4 +128,4 @@ Segue a gravação do grupo se reunindo para fazer o Diagrama de Pacotes do dia 
 | `1.2`    | 29/04/2025 | Adicionando explicação de elementos |[Alexandre Junior](https://github.com/AlexandreLJr) |  |  |
 | `1.3`    | 02/05/2025 | Adição de mais uma camada e da explicação da imagem |[Manoela Garcia](https://github.com/manu-sgc) |  |  |
 | `1.4`    | 02/05/2025 | Adição do diagrama de pacotes |[Victor Bernardes](https://github.com/VHbernardes) |  |  |
-| `1.5`    | 03/05/2025 | Adição da gravação |[Manoela Garcia](https://github.com/manu-sgc) |  |  |
+| `1.5`    | 03/05/2025 | Adição da gravação |[Manoela Garcia](https://github.com/manu-sgc) | [João Lucas](https://github.com/joaolucas102) | Muito bem feito, PR aprovado. |
