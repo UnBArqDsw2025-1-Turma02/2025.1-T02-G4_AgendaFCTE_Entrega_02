@@ -54,5 +54,5 @@ Demonstrar como os objetos interagem para realizar o **cadastro de um novo event
 
 | Versão | Data       | Descrição               | Autor                                             | Revisor                                                | Comentário do Revisor |
 | ------ | ---------- | ----------------------- | ------------------------------------------------- | ------------------------------------------------------ | --------------------- |
-| `1.0`    | 17/04/2025 | Elaboração do esqueleto para entrega 2    |[Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)  | Aprovação do PR, ótimo trabalho |
-| `1.1`    | 06/05/2025 | Diagrama RF05    |[João Lucas](https://github.com/joãolucas102) |   |   |
+| `1.0`    | 17/04/2025 | Elaboração do esqueleto para entrega 2    |[Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)  |  |
+| `1.1`    | 06/05/2025 | Diagrama RF05    |[João Lucas](https://github.com/joãolucas102) | [Pedro Lopes](https://github.com/pLopess)  |  Muito bom conteúdo |
