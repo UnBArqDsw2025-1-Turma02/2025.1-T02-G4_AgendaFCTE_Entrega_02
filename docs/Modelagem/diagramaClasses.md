@@ -44,5 +44,5 @@ Versão 2 do diagrama com algumas alterações realizadas, como adição de enca
 | ------ | ---------- | ----------------------- | ------------------------------------------------- | ------------------------------------------------------ | --------------------- |
 | `1.0`    | 17/04/2025 | Elaboração do esqueleto para entrega 2    |[Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)  | Aprovação do PR, ótimo trabalho |
 | `1.1`    | 30/04/2025 | Adicionando introdução e bibliografia    |[Alexandre Junior](https://github.com/AlexandreLJr) | [Pedro Lopes](https://github.com/pLopess) | Boa estrutura inicial |
-| `1.2`    | 02/05/2025 | Adicionando diagrama de classes inicial  |[Pedro Lopes](https://github.com/pLopess) |  |  |
-| `1.3`    | 02/05/2025 | Adicionando versão 2 do diagrama de classes |[Alexandre Junior](https://github.com/AlexandreLJr) |  |  |
+| `1.2`    | 02/05/2025 | Adicionando diagrama de classes inicial  |[Pedro Lopes](https://github.com/pLopess) | [Victor Bernardes](https://github.com/VHbernardes) | Revisado e verificado, bom trabalho! |
+| `1.3`    | 02/05/2025 | Adicionando versão 2 do diagrama de classes |[Alexandre Junior](https://github.com/AlexandreLJr) |[Victor Bernardes](https://github.com/VHbernardes) | Revisado e verificado, PR aprovado. Bom trabalho! |
