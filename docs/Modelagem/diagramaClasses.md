@@ -10,7 +10,7 @@ Versão inicial do diagrama de classes do app Agenda UnB, contém as principais 
 <center>
 <p><b>Figura 1 - Diagrama de Classes</b></p>
 
-<img src="../assets/diagrama-classes/diagramaclassesV1.png" alt="diagramaclass1" width="100%">
+<img src="./assets/diagrama-classes/diagramaclassesV1.png" alt="diagramaclass1" width="100%">
 
 <font size="2"><p style="text-align: center"><b>*Autor: <a href="https://github.com/pLopess">Pedro Lopes</a>*</b></p></font>
 </center>
@@ -24,7 +24,7 @@ Versão 2 do diagrama com algumas alterações realizadas, como adição de enca
 <center>
 <p><b>Figura 2 - Diagrama de Classes, versão 2</b></p>
 
-<img src="../assets/diagrama-classes/DiagramaClasses2.png" alt="diagramaclass2" width="100%">
+<img src="./assets/diagrama-classes/DiagramaClasses2.png" alt="diagramaclass2" width="100%">
 
 <font size="2"><p style="text-align: center"><b>*Autor: <a href="https://github.com/AlexandreLJr">Alexandre Junior</a>*</b></p></font>
 </center>
