@@ -21,9 +21,9 @@ Alguns dos componentes mais comuns de um diagrama de atividade incluem:
 <center>
  <p><b>Figura 1 - Fluxo de busca, navegação e inscrição</b></p>
  
- <img src="../assets/diagrama-atividades/Diagrama_de_Atividades.jpg" alt="diagramaAtividade" width="100%">
+ <img src="./assets/diagrama-atividades/diagrama-atividades.jpg" alt="diagramaAtividade" width="100%">
  
- <font size="2"><p style="text-align: center"><b>*Autor: <a href="https://github.com/AlexandreLJr">Alexandre Junior</a>*</b></p></font>
+ <font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/AlexandreLJr">Alexandre Junior</a></b></p></font>
  </center>
  
  <br>
